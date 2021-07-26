@@ -1,0 +1,1852 @@
+Shrine of Ethics: [Talk] Before you is an unmarked shrine. 
+Khelkarak Stoneshoulder: [Talk] [pray to my deity here] 
+Shrine of Morals: [Talk] Before you is an unmarked shrine. 
+Khelkarak Stoneshoulder: [Talk] [pray to my deity here] 
+Khelkarak Stoneshoulder: [Talk] *raises a brow, looking at the chest* 
+Khelkarak Stoneshoulder: [Talk] *furrows his brows, stroking his beard for a moment* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Cronbar... Ye seen who left this chest here? 
+Cronbar Foehammer: [Talk] what be that? 
+Khelkarak Stoneshoulder: [Talk] *frowns, grumbling* [Dw] Nay idea... Were walking out of the Hold and this were just sitting here 
+Cronbar Foehammer: [Talk] *eyes the chest closely* 
+Cronbar Foehammer: [Talk] and what be inside? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Be empty, as I saw it 
+Cronbar Foehammer: [Talk] hmm 
+Khelkarak Stoneshoulder: [Talk] *grumbles* [Dw] First spears lying around and now chests... 
+Cronbar Foehammer: [Talk] yer best be takin' it inside to storage, so it doesn't get cmessy out 'ere 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Aye, will do. 
+Cronbar Foehammer: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+Cronbar Foehammer: [Talk] any other reports? 
+Khelkarak Stoneshoulder: [Talk] *furrows his brow* [Dw] Hrrmmm... Nay thinking so. 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Cronbar Foehammer: [Talk] aye, yer be able ta carry da chest down on yer own 
+Khelkarak Stoneshoulder: [Talk] *grunts, trying to lift it vainly* [Dw] Huh... Heavier than it be looking. 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Cronbar Foehammer: [Talk] *smirks* 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Khelkarak Stoneshoulder: [Talk] *grunts, getting a grip on the chest* [Dw] There... Think I can manage it now... 
+Cronbar Foehammer: [Talk] *nods* if yer wantin' some help yer can ask 
+Khelkarak Stoneshoulder: [Talk] *chuckles* [Dw] Then I think I'd best be asking for some... Not sure me back will be liking me if I do it alone. 
+Cronbar Foehammer: [Talk] oi brotha caan yer help this lad 
+Cronbar Foehammer: [Talk] he be needin ta drag this chest inddors 
+Cronbar Foehammer: [Talk] I'll patrol on while yer gone 
+Ogrin Foehammer: [Talk] oh  
+Khelkarak Stoneshoulder: [Talk] *inclines his head to Ogrin* [Dw] Aye, it'd be appreciate.. 
+Cronbar Foehammer: [Talk] *nods* 
+Ogrin Foehammer: [Talk] come then 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* 
+Ogrin Foehammer: [Talk] *helps lift the chest* 
+Khelkarak Stoneshoulder: [Talk] *nods, beginning to move* 
+Khelkarak Stoneshoulder: [Talk] *puts his end of the chest down for a moment to open the door, then picks it back up slowly* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Be having a feeling I know where it were comming from.. we'll see though 
+Ogrin Foehammer: [Talk] *picks up back end of the chest* 
+Ogrin Foehammer: [Talk] what yer mean 
+Khelkarak Stoneshoulder: [Talk] [Dw] Well, there used to be a chest like this in the kitchen, but last time I checked it were gone.. mayhaps this be it 
+Ogrin Foehammer: [Talk] hmm, why would someone take it 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Nay idea... 
+Khelkarak Stoneshoulder: [Talk] *gently lowers his end of the chest down long enough to unlock and open the gate* 
+Ogrin Foehammer: [Talk] *lowers end and closes the gate* 
+Ogrin Foehammer: [Talk] *picks up end and carries on* 
+Khelkarak Stoneshoulder: [Talk] *inclines his head to Furin* [Dw] Hail Furin.. Think ye could open that door quick? 
+Furin Morn: [Talk] 'ere yer go lads 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Me thanks 
+Khelkarak Stoneshoulder: [Talk] *lowers his end of the chest to open thate gate before picking it back up carefully* 
+Khelkarak Stoneshoulder: [Talk] *gently lowers his end of the chest long enough to open the door* 
+Khelkarak Stoneshoulder: [Talk] *inclines his head to Bimnn* 
+Bimnn: [Talk] lads,carryin' a chest I see 
+Khelkarak Stoneshoulder: [Talk] [Dw] Think ye could help with the door, Bimnn? And aye.. Were sitting outside in the snow... 
+Bimnn: [Talk] et be fer da kitchen? 
+Bimnn: [Talk] aye sure 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Aye, I be thinking so. 
+Khelkarak Stoneshoulder: [Talk] [Dw] Me thanks 
+Ogrin Foehammer: [Talk] *ndos to Bimnn* 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Aye... The chest from here be gone... 
+Khelkarak Stoneshoulder: [Talk] *sets his end down carefully* 
+Ogrin Foehammer: [Talk] wher yer wants it 
+Khelkarak Stoneshoulder: [Talk] [Dw] Last one were right around here 
+Ogrin Foehammer: [Talk] *nods* 
+Ogrin Foehammer: [Talk] that be that 
+Khelkarak Stoneshoulder: [Talk] [Dw] Aye, me thanks Ogrin. 
+Ogrin Foehammer: [Talk] aye lad 
+Ogrin Foehammer: [Talk] good day ter yea 
+Khelkarak Stoneshoulder: [Talk] *frowns* [Dw] Still... Wonder what be happening to all the food what was in it.. And how it got out there in the first place... 
+Ogrin Foehammer: [Talk] *shrugs* 
+Ogrin Foehammer: [Talk] *nods his head* 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] *glances at the chest for a moment more warily* ... 
+Khelkarak Stoneshoulder: [Talk] *nods to Bimnn* 
+Khelkarak Stoneshoulder: [Talk] *nods to Furin* 
+Khelkarak Stoneshoulder: [Talk] *checks the gate over for a moment* 
+Khelkarak Stoneshoulder: [Talk] *narrows his eyes, scanning the opposite shore carefully* 
+Khelkarak Stoneshoulder: [Talk] *bows his head, speaking under his breath* [Dw] Lord of the Bronze Mask give yer blessing on this Hold and its children... keep safe the land of Kal-ahn'dur and the Iron Hills from its enemies. 
+(MDM) HOT : [Shout]  an excitable hin can be heard calling a metting at the foot of the hill in the stormhold area 
+Khelkarak Stoneshoulder: [Talk] *raises his head slowly, looking to the south once more with a grim expression* 
+Khelkarak Stoneshoulder: [Talk] *continues staring southwards, as the snow builds up on his shoulders and beard* 
+(RDM)NiteWolf : [Shout]  *The sounds of war Drums can be heard*  
+Khelkarak Stoneshoulder: [Talk] *blinks, tilting his head to the side for a moment* 
+Khelkarak Stoneshoulder: [Talk] PC Dicebag : <cþ>[Private]</c> What kind of die do you want to roll? 
+Khelkarak Stoneshoulder: [Talk] Roll a Skill Check (A - O) 
+Khelkarak Stoneshoulder: [Talk] Which Skill? 
+Khelkarak Stoneshoulder: [Talk] Listen 
+Khelkarak Stoneshoulder: [Talk] [Dw] Bunus... Ye be hearing anything? 
+Khelkarak Stoneshoulder: [Talk] *frowns, narrowing his eyes once more and keeping his gaze southward* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Bunus... Ye be hearing anything, lad? 
+Khelkarak Stoneshoulder: [Talk] *grumbles, glancing at Bunus for a moment* 
+Khelkarak Stoneshoulder: [Talk] [Dw] I'll be back in a bit... Keep yer eyes, ears, and nose sharp... 
+Khelkarak Stoneshoulder: [Talk] *inclines his head* [Dw] Hail Ursullir 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *nods to Khelkarak.* 
+Khelkarak Stoneshoulder: [Talk] [Dw] How do yer ears be feeling lass? I be thinking I be needing a second opinion on something.. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* My ears work well.  We can talk of it, if you wish to. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *runs the dummy through with spear.  tugs it free with some effort.* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Would be best if ye came to the draw bridge then... I could have sworn I were hearing drums... But at my age... I have to be careful about things like this 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Drums? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *frowns.* 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* [Dw] Aye.. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *stows spear on back.* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *peers out across the ravine.* 
+Khelkarak Stoneshoulder: [Talk] *directs his gaze south, eyes narrowed* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *concentrates, listening hard - head tilted to one side.* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Did Bunus hear anything? 
+Khelkarak Stoneshoulder: [Talk] *grumbles* [Dw] I were asking him and he did nay even respond... If he did nay hear me, I be guessing he did nay hear anything else 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrm... ...I hear nothing now. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Maybe you imagined it.  Maybe you did not. 
+Khelkarak Stoneshoulder: [Talk] *frowns* [Dw] I'd hate to be thinking that I be that far gone... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Can you describe the sound of it? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Drums... more than one, for sure... Ehh.. *furrows his brow for a moment* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Beat were steady... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrm... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Is Doli out there? 
+Khelkarak Stoneshoulder: [Talk] *grunts, frowning* [Dw] Mayhaps I be just hearing things... It be a little hectic what with the current situation and all... 
+Khelkarak Stoneshoulder: [Talk] [Dw] Nay ever seen Doli nay place else... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *nods slowly.* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ye want to go check? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* It would be foolish to lower the bridge I think... ...were the drums lour or faint, as if a way of? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *loud 
+Khelkarak Stoneshoulder: [Talk] *sighs* [Dw] Can't be sure... but I'd be saying faint... Hell I'm nay even sure I heard the damn things. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *nods slowly.* 
+Khelkarak Stoneshoulder: [Talk] *grumbles* [Dw] I be wondering if it even be mattering either way... We already be knowing they be comming.. And soon.. Been nearly a tenday since the message were arriving. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* We shall see... we shall see... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Doli, keep your eyes southwards, if you will. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *Bunus 
+Bunus: [Talk] *nods* as always 
+Khelkarak Stoneshoulder: [Talk] *grumbles, frowning* 
+Bunus: [Talk] yer hear somethink? 
+(MDM) HOT : [Shout]  BEAT                   BEAT                   BEAT                     BEAT                   BEAT 
+Khelkarak Stoneshoulder: [Talk] *glances at Bunus quickly* [Dw] I were thinking I did... but I be nay sure... Did ye? 
+Khelkarak Stoneshoulder: [Talk] *grunts, glancing south, eyes narrowed* 
+Bunus: [Talk] *shakes head* nay I na hear anythin' except fer da wind and da water below 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *frowns grimly.* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ye don't be hearing anything? Ye sure... I were just hearing it again... *grumbles* Damn it all, wish me ears were a century younger 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* I heard it. 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ye did? 
+Khelkarak Stoneshoulder: [Talk] *hefts his shield and axe, keeping his gaze southwards* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* We need a proper barricade here... ...with spikes like the orc themselves have... 
+Corbin Rockhopper: [Talk] *nods* 
+Bunus: [Talk] da best barricade be da groge lass 
+Khelkarak Stoneshoulder: [Talk] [Dw] Kurg and Velm had spear to set up here.. but nay be knowing where they ran off to.... 
+Bunus: [Talk] *gorge 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Perhaps those crates back there could be of use... 
+Corbin Rockhopper: [Talk] *shrugs * nay sure were they went.. 
+Khelkarak Stoneshoulder: [Talk] [Dw] The High Sonnlinor were putting them where they be in case the moat be failing... 
+(MDM) HOT : [Shout]  BEAT        BEAT             BEAT            BEAT           BEAT 
+Corbin Rockhopper: [Talk] was comming to check if ye needed some help 
+Khelkarak Stoneshoulder: [Talk] [Dw] We be needing to keep an eye on the stepping stones... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *nods.* 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *drags large crate.* 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *strains with great effort.* 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Khelkarak Stoneshoulder: [Talk] *begins dragging another crate* 
+Corbin Rockhopper: [Talk] *helps Ursullir* 
+Khelkarak Stoneshoulder: [Talk] *peers across across the moat warily* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* At least we have cover now, to crouch behind. 
+Khelkarak Stoneshoulder: [Talk] [Dw] Aye... But do we be having anything to be hitting them with from over here, aside from Bunus' crossbow? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* I have bows, but they are below.  And few arrows. 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Aye, I been hearing of the arrow problems... 
+Khelkarak Stoneshoulder: [Talk] [Dw] Lass... do ye know how to work the catapault? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* No... ...and I have no stone to load it with. 
+Khelkarak Stoneshoulder: [Talk] *nods slowly, frowning* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* See anything, Bunus? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Where did Corbin run off to? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *stomps feet and flaps arms, keeping warm.* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* I know not. 
+Khelkarak Stoneshoulder: [Talk] *frowns for a moment* 
+Khelkarak Stoneshoulder: [Talk] [Dw] How close do ye reckon they be? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hard to say, though it seemed loud enough, when I heard it. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Though the wind can play tricks upon you. 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* [Dw] Aye... Though that could be the mountain passes playing... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Let us hope these orcs find the cold biting wind, too harsh. 
+Khelkarak Stoneshoulder: [Talk] [Dw] Aye to that... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* See anything, Cronbar? 
+Khelkarak Stoneshoulder: [Talk] *grunts, shifting slightly* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Eh? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* What the hells? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ye be seeing what I be seeing, aye? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* I see him. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* You will have to speak.  I cannot raise my voice to him. 
+[Anselmo] Malcor Blackarrow: [Talk] can you hear me! 
+Khelkarak Stoneshoulder: [Talk] *shouts across* [Dw] Who the hell are ye? 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Err.. damn.. 
+[Anselmo] Malcor Blackarrow: [Talk] Malcor... the wolf sends word if you value his trade come aid us in this battle!!! 
+Khelkarak Stoneshoulder: [Talk] *shouts* Who in blazes are ye? 
+[Anselmo] Malcor Blackarrow: [Talk] the town is under attack 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Who? 
+[Anselmo] Malcor Blackarrow: [Talk] we need aid  
+Khelkarak Stoneshoulder: [Talk] [Dw] Said is name be Malcor 
+[Anselmo] Malcor Blackarrow: [Talk] the red wizard attacks 
+Khelkarak Stoneshoulder: [Talk] [Dw] They be wanting aid, his town be under attack 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrm... 
+Khelkarak Stoneshoulder: [Talk] [Dw] The red wizard be attacking... 
+[Anselmo] Malcor Blackarrow: [Talk] help us... please 
+[Anselmo] Malcor Blackarrow: [Talk] all who can!! 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* How did he get here so quick? 
+[Anselmo] Malcor Blackarrow: [Talk] i will lead on the secret trail home 
+Khelkarak Stoneshoulder: [Talk] *shouts* How did ye get here so quick if'n yer town be being attacked? 
+[Anselmo] Malcor Blackarrow: [Talk] i ran, and used the secret trail! 
+[Anselmo] Malcor Blackarrow: [Talk] we must hurry!! 
+Khelkarak Stoneshoulder: [Talk] [Dw] He be knowing some secret trails he says... He wants us to aid him.. and fast 
+[Anselmo] Malcor Blackarrow: [Talk] i beseach you 
+[Anselmo] Malcor Blackarrow: [Talk] any dwarf who will come 
+Khelkarak Stoneshoulder: [Talk] [Dw] The enemy of our enemy be our friend... But wihtout the Thane's voice... 
+[Anselmo] Malcor Blackarrow: [Talk] we have sent runners to the elves and gnomes also 
+Khelkarak Stoneshoulder: [Talk] [Dw] Says runners been sent to the elves and gnomes as well 
+[Anselmo] Malcor Blackarrow: [Talk] you must help us!! 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrm... 
+[Anselmo] Malcor Blackarrow: [Talk] this is our most dire hour 
+Khelkarak Stoneshoulder: [Talk] [Dw] What say ye, lass? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *looks thoughtful.* 
+[Anselmo] Malcor Blackarrow: [Talk] i can take you safely to our keep 
+[Anselmo] Malcor Blackarrow: [Talk] most likely 
+Khelkarak Stoneshoulder: [Talk] *shouts* Be givin' us a moment! 
+[Anselmo] Malcor Blackarrow: [Talk] help solidify the friendship of our kins.... we need your aid 
+[Anselmo] Malcor Blackarrow: [Talk] get more if ye can! 
+[Anselmo] Malcor Blackarrow: [Talk] i will be here 
+Khelkarak Stoneshoulder: [Talk] [Dw] Corbin would go... He be from the south, aye? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Yes... ...hrm... 
+[Anselmo] Malcor Blackarrow: [Talk] *looks desperate* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Bimnn might, as well... But still... *curses* The Thane be nay about 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* what do you think? 
+Khelkarak Stoneshoulder: [Talk] *furrows his brow for a moment* 
+[Anselmo] Malcor Blackarrow: [Talk] *paces to and fro 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* I do not know this man.  Nor am I sure I can leave Kalahndur. 
+[Anselmo] Malcor Blackarrow: [Talk] will you come 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] I nay know him either... but.. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* Berronar says defend our hearth and home, but our own hearth and home. 
+[Anselmo] Malcor Blackarrow: [Talk] i beg you to not turn your backs to us at this dire hour 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] I be sworn as Barakor to defend the Thane and the Hold... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* Tell him no.  We are bound by oath. 
+[Anselmo] Malcor Blackarrow: [Talk] come!!! please!! the tide will not wait 
+[Anselmo] Malcor Blackarrow: [Talk] can you hear me!! 
+Khelkarak Stoneshoulder: [Talk] *shouts* We be bound by oath to defend our own Hold. 
+[Anselmo] Malcor Blackarrow: [Talk] i beg you not to turn your back on us.... The Wolf says if ye value his trade come and aid 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ye be knowing a "Wolf"? 
+[Anselmo] Malcor Blackarrow: [Talk] we will surely fall with no aid 
+[Anselmo] Malcor Blackarrow: [Talk] i would your thane was here he would know me, and the wolf 
+[Anselmo] Malcor Blackarrow: [Talk] but he is not so we must go 
+[Anselmo] Malcor Blackarrow: [Talk] please!!!!! i must go 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* I do not know the Thane's mind... I do not know what he would wish us to do... 
+[Anselmo] Malcor Blackarrow: [Talk] if the mage wins.... the whole middle of this isle will be his, this can't be 
+Khelkarak Stoneshoulder: [Talk] [Dw] He were traveling south not long ago to form alliances... But still.. His mind and decisions be his own, aye. 
+[Anselmo] Malcor Blackarrow: [Talk] please, yes oe no now i cannot tarry any longer 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *looks to Khelkarak.* 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] I be thinking we should go... 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] The hold be well defended even wihtout us... 
+[Anselmo] Malcor Blackarrow: [Talk] i care not to return to our town as it burns 
+[Anselmo] Malcor Blackarrow: [Talk] we must aid 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] If Corbin will go... we may aid them some. 
+Khelkarak Stoneshoulder: [Talk] *glances at Ursullir, raising a brow* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *frowns, obviously torn.* 
+Khelkarak Stoneshoulder: [Talk] *shouts* Be waitin' a moment more! 
+Khelkarak Stoneshoulder: [Talk] [Dw] I will be asking Corbin.. Even if we nay be going, he might 
+[Anselmo] Malcor Blackarrow: [Talk] i must not tarry... they need me as well 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *Nods.* 
+Khelkarak Stoneshoulder: [Talk] *shouts* [Dw] Corbin! Ye be in here? 
+Zachan Wilkino: [Talk] Read it here first! 
+Khelkarak Stoneshoulder: [Talk] [Dw] Lad... Ye seen Corbin recently? 
+Zachan Wilkino: [Talk] Coffinswode news 
+Khelkarak Stoneshoulder: [Talk] *grumbles, cursing* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Cronbar! Ye seen Corbin? 
+Khelkarak Stoneshoulder: [Talk] *grunts* 
+Khelkarak Stoneshoulder: [Talk] *grumbles loudly* [Dw] Nay can find him 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *makes a helpless gesture with arms.* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* I am torn.  I do not know what to do. 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] What do yer gut be telling ye to do? Before anything else? 
+[Anselmo] Malcor Blackarrow: [Talk] for the love of all the gods, are you coming!!!??? 
+Khelkarak Stoneshoulder: [Whisper]  [Dw] Lass? What be yer gut saying? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* My gut says, do not trust him.  If they wanted an alliance... ...why not arrange it before?  Yet... ...if his cause his true... 
+Khelkarak Stoneshoulder: [Talk] *nods grimly* 
+[Anselmo] Malcor Blackarrow: [Talk] are you coming!!! i must know!!! 
+Khelkarak Stoneshoulder: [Talk] *shouts* We can nay act without the Thane's orders! We be bound by Oath! 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Tell him 'No'. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Unless he can give some oath of his own, proving himself. 
+[Anselmo] Malcor Blackarrow: [Talk] so you will watch the isle be over run... i nay wish to speak for your thane.... but would he turn hi=s back on friends like this!!! 
+Khelkarak Stoneshoulder: [Talk] *shouts* Unless ye can prove ye be knowing the Thane and be an ally, then we'd be thinking differently! 
+[Anselmo] Malcor Blackarrow: [Talk] i waer a cloak of bear skin i bought on one of my trips up here... i wear it now 
+[Anselmo] Malcor Blackarrow: [Talk] i have bought armor made by the thane himself 
+Khelkarak Stoneshoulder: [Talk] *glances at Ursullir for a moment* 
+[Anselmo] Malcor Blackarrow: [Talk] what can i say 
+[Anselmo] Malcor Blackarrow: [Talk] that will move your hearts!! 
+[Anselmo] Malcor Blackarrow: [Talk] the whole of the humans here need you now 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Tell him to swear an oath to delivering us safely south... 
+Khelkarak Stoneshoulder: [Talk] *shouts* Swear us an oath to deliver us safely south! 
+[Anselmo] Malcor Blackarrow: [Talk] i shall on my life deliver you safely south!! 
+[Anselmo] Malcor Blackarrow: [Talk] i swear it!! 
+Khelkarak Stoneshoulder: [Talk] *nods to Ursullir* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* And back again.  Tell him to swear on.. something he holds dear.  Otherwise it aint binding. 
+Khelkarak Stoneshoulder: [Talk] *shouts* Another for the trip back! And on something ye be holding dear, aside from yer life! 
+[Anselmo] Malcor Blackarrow: [Talk] i swear on my fathers soul i will bring you safely back!! 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* hrm... 
+Khelkarak Stoneshoulder: [Talk] [Dw] Sworn on an ancestor... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* There is the Thane's honour here, if we do nothing. 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Open Bunus. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Go across. 
+[Anselmo] Malcor Blackarrow: [Talk] thank you dearly ... just ahead keep quiet and behind me... a gnoll lurks there, i'll kill it if i must but lets try to slip by 
+Khelkarak Stoneshoulder: [Talk] Be waitin' a second, lad. 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] stay near me 
+[Anselmo] Malcor Blackarrow: [Talk] and quiet ahead 
+Khelkarak Stoneshoulder: [Talk] *shouts* [Dw] Bunus! Close the bridge! 
+Khelkarak Stoneshoulder: [Talk] Close it Bunnus! 
+[Anselmo] Malcor Blackarrow: [Talk] ((leave i'll invit)) 
+Khelkarak Stoneshoulder: [Talk] *curses* 
+Khelkarak Stoneshoulder: [Talk] [Dw] There we go 
+[Anselmo] Malcor Blackarrow: [Talk] stay close and quiet 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *whisper* Let us depart then. 
+[Anselmo] Malcor Blackarrow: [Talk] a friend? 
+Khelkarak Stoneshoulder: [Talk] *shouts* [Dw] Carven! 
+[Anselmo] Malcor Blackarrow: [Talk] let us go 
+[Anselmo] Malcor Blackarrow: [Talk] we must make haste 
+[swEEpEr14] Carven Deepforge: [Talk] *waves* 
+Khelkarak Stoneshoulder: [Talk] *shouts* [Dw] Carven! Come on 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *motions carven to cross.* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* We need to honour the Thane and offer our help to the humans. 
+[Anselmo] Malcor Blackarrow: [Talk] quick and quiet now 
+[swEEpEr14] Carven Deepforge: [Talk] *adjusts armor* 
+Bunus: [Talk] *waves* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *whisper* lead the way, Malcor. 
+Khelkarak Stoneshoulder: [Talk] *shouts* [Dw] Bunus! Be telling the Thane! We be giving aid to the humans to presever his honor! The red wizard be attacking! 
+[Anselmo] Malcor Blackarrow: [Talk] we all thank your kin 
+[Anselmo] Malcor Blackarrow: [Talk] this is a freat show of friendship 
+[Anselmo] Malcor Blackarrow: [Talk] great 
+[Anselmo] Malcor Blackarrow: [Talk] make haste 
+Doli Brundero: [Talk] *looks to the group* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Doli, if this man returns and we do not.  kill him if he shows his face. 
+[Anselmo] Malcor Blackarrow: [Talk] we go to fight the red wizard... will you come 
+Doli Brundero: [Talk] I will *smirks to Malcor* 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] come quick 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] humans often cover their face when they request aid? 
+Khelkarak Stoneshoulder: [Talk] [Dw] For the cold, methinks.. Had it off earlier 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] all allright 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* You alright carven? 
+[swEEpEr14] Carven Deepforge: [Talk] hmph 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] fine 
+[Anselmo] Malcor Blackarrow: [Talk] this way 
+[swEEpEr14] Carven Deepforge: [Talk] *grumles* 
+[Anselmo] Malcor Blackarrow: [Talk] stay close 
+Khelkarak Stoneshoulder: [Talk] [Dw] Carven? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Cmon. 
+[Anselmo] Malcor Blackarrow: [Talk] we must hurry 
+Khelkarak Stoneshoulder: [Talk] [Dw] What be the problem? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* We go to aid the humans.  not trip over trinkets. 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+[swEEpEr14] Carven Deepforge: [Talk] aye 
+[Anselmo] Malcor Blackarrow: [Talk] stay close 
+[swEEpEr14] Carven Deepforge: [Talk] *mutters*[dw] thanks to ya Haela 
+Khelkarak Stoneshoulder: [Talk] *SUCCESS* on an average climb 
+[swEEpEr14] Carven Deepforge: [Talk] *sighs* climbin... 
+[Anselmo] Malcor Blackarrow: [Talk] *SUCCESS* on an average climb 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *SUCCESS* on an average climb 
+[swEEpEr14] Carven Deepforge: [Talk] *FAILURE* on an average climb 
+[swEEpEr14] Carven Deepforge: [Talk] *FAILURE* on an average climb 
+[swEEpEr14] Carven Deepforge: [Talk] *SUCCESS* on an average climb 
+[Anselmo] Malcor Blackarrow: [Talk] *removes hood* 
+[swEEpEr14] Carven Deepforge: [Talk] Climbin with one blasted arm ! 
+[swEEpEr14] Carven Deepforge: [Talk] Bah! 
+Khelkarak Stoneshoulder: [Talk] *grumbles* 
+[Anselmo] Malcor Blackarrow: [Talk] be wary we may be walking into battle 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrm... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* hurry up. 
+Jasper "The Wolf": [Talk] a few days peace so that we can please you? 
+[Anselmo] Malcor Blackarrow: [Talk] *looks on* 
+Khelkarak Stoneshoulder: [Talk] *narrows his eyes* 
+Aram Aset: [Talk] *takes a slow deep breath* 
+Jasper "The Wolf": [Talk] *slips out a dagger in left hand* 
+[Malacar] Bernard Fallowfield: [Talk] *coughs*  Many lass.  *shakes his head*  Too many. 
+Aram Aset: [Talk] *squints his eyes looking into Jasper's* 
+[Sternhelm] Justian the Inquisitor: [Talk] *coughs violently, doubled over* 
+[Malacar] Bernard Fallowfield: [Talk] *coughs*  The captain... 
+[Anselmo] Malcor Blackarrow: [Talk] *looks to jasper* 
+Jasper "The Wolf": [Talk] *drops the daggers violently* 
+[GoldenProphet] Raena Fallbrooke: [Talk] *Eyes widen* Gods no... tell me he still lives 
+Jasper "The Wolf": [Talk] *back arches in pain* 
+[Aermord] Roald Vardenfell: [Talk] *blinks* 
+Khelkarak Stoneshoulder: [Talk] *raises a brow* 
+[swEEpEr14] Carven Deepforge: [Talk] *tries to knock mud out of chain links in armor* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *steps back nervously* 
+Jasper "The Wolf": [Talk] one thousand....apologies.....master.... 
+Jasper "The Wolf": [Talk] i meant no harm 
+Aram Aset: [Talk] you will not tresspass again, you will leave my minions be and.... *exhales slowly* 
+[GoldenProphet] Raena Fallbrooke: [Talk] *Eyes well up with tears as she looks to the bodies* 
+Jasper "The Wolf": [Talk] *nods in pain* 
+[swEEpEr14] Carven Deepforge: [Talk] *shakes head*  [dw] not good 
+Aram Aset: [Talk] ...and you will pay a trbute as a peace offer 
+Khelkarak Stoneshoulder: [Talk] *motions for Carven to be silent* 
+Jasper "The Wolf": [Talk] *nods* anything 
+[Malacar] Bernard Fallowfield: [Talk] *rasping breath* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* hrm... ...tribute... that word again... 
+[GoldenProphet] Raena Fallbrooke: [Talk] Bernard... you must get inside, and rest... you cant be any good in this condition 
+Jasper "The Wolf": [Talk] *tries to stand* 
+Aram Aset: [Talk] ...and make the trbitue worthy.... so that I might see you all as .... worthy for now 
+[Aermord] Roald Vardenfell: [Talk] *stares at Aram with a pale face and blood frlowing from his nose* 
+[Malacar] Bernard Fallowfield: [Talk] *nods* 
+[GoldenProphet] Raena Fallbrooke: [Talk] I will try and get the other injured inside 
+[Malacar] Bernard Fallowfield: [Talk] *hobbles to tent* 
+Jasper "The Wolf": [Talk] most....*gasps for breath* gracious and wise my Lord 
+Jasper "The Wolf": [Talk] Hail Thay! 
+Jasper "The Wolf": [Talk] *grunts in pain* 
+Khelkarak Stoneshoulder: [Talk] *narrows his eyes* 
+[Aermord] Roald Vardenfell: [Talk] *replies, though not in a happy voice* hail Thay.. 
+[peprino] Golnauk Thrugrim: [Talk] [pants slightly] 
+[Man in the mirror] Yauthnorg: [Talk] Hrrr... [He looks to the water] 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Hail Thay! 
+[Anselmo] Malcor Blackarrow: [Talk] *throws back his hood8 
+[peprino] Golnauk Thrugrim: [Talk] [quickly examines the group] 
+[Durin Orkbaine] Brance: [Talk] Hail thay!' 
+Jasper "The Wolf": [Talk] *falls to the ground in agony* 
+[Sternhelm] Justian the Inquisitor: [Talk] *looks over, seems to barely understand... nods* 
+[Sternhelm] Justian the Inquisitor: [Talk] *stumbles* 
+[Anselmo] Malcor Blackarrow: [Talk] *curses* 
+[Man in the mirror] Yauthnorg: [Talk] [He growls] .[Poorly spoken Druidic] I know you hides in ther [Orc] Furs! 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Whisper]  -dwarven- *whisper* Hrm... 
+Khelkarak Stoneshoulder: [Talk] *blinks* 
+[Man in the mirror] Yauthnorg: [Talk] .[Poorly spoken Druidic] Get out of the water furs! [He snarls] 
+Jasper "The Wolf": [Talk] *beats the ground* bastard 
+Jasper "The Wolf": [Talk] *gathers weapons and regains footing* 
+[Aermord] Roald Vardenfell: [Talk] *puts a finger to his lips* 
+Jasper "The Wolf": [Talk] fall back quickly 
+[Snowbleach] Laurick "The Eye": [Talk] So what now? 
+[Aermord] Roald Vardenfell: [Talk] *points at the bat* 
+Jasper "The Wolf": [Talk] mend this gate 
+[GoldenProphet] Raena Fallbrooke: [Talk] *Looks over the injured, her gaze avoiding the dead bodies* 
+[gafferpool] Baden Swan: [Talk] Glances down at red sad;y* 
+Jasper "The Wolf": [Talk] *nods* 
+[gafferpool] Baden Swan: [Talk] *sheaths his weapons* 
+[Lost Soul] Jervis: [Talk] Captain? Are you truly *sobs* gone? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I'll get tha lumber and Samin on it 
+[Man in the mirror] Yauthnorg: [Talk] [He snarls and the lightens up] Ahh... .[Poorly spoken Druidic] Hello Furs... 
+[Aermord] Roald Vardenfell: [Talk] The gate must be repaird 
+[GoldenProphet] Raena Fallbrooke: [Talk] Those injured to the tent... we will mend as many as we can.... 
+[Man in the mirror] Yauthnorg: [Talk] [A large rat walks over to him] 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I need some muscle 
+[peprino] Golnauk Thrugrim: [Talk] [o] there he is! 
+[peprino] Golnauk Thrugrim: [Talk] u] nroho ro ag 
+[GoldenProphet] Raena Fallbrooke: [Talk] I... I will get my sister to the hill.. *looks to Isabel* 
+[Man in the mirror] Yauthnorg: [Talk] .[Poorly spoken Druidic] Hiding in the water you were... Hrrr...  
+[Aermord] Roald Vardenfell: [Talk] Good dwarves.. than.. thank you for comming. 
+[gafferpool] Baden Swan: [Talk] The sargeants things ..i shall give them to jeremias jervis * tears well in his eyes* 
+[Man in the mirror] Yauthnorg: [Talk] .[Orcish] Yes... he was hiding in the water... hrrr... 
+[peprino] Golnauk Thrugrim: [Talk] -[c] what for? 
+[gafferpool] Baden Swan: [Talk] *captains* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *whisper* Is there anything the Khazad may do, to aid you this day? 
+[Man in the mirror] Yauthnorg: [Talk] .[Orcish] Not very nice of him. 
+[Aermord] Roald Vardenfell: [Talk] We will need your help repairing the gate. 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+[Man in the mirror] Yauthnorg: [Talk] .[Orcish] eating the rotten fishes. 
+[Undertowe] Pip Halloway: [Talk] *frowns, her eyes wandering over the crowd* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ta help repair tha gate 
+[Lost Soul] Jervis: [Talk] *nods* 
+[peprino] Golnauk Thrugrim: [Talk] [shrugs] 
+[swEEpEr14] Carven Deepforge: [Talk] *shivers* 
+[peprino] Golnauk Thrugrim: [Talk] grhkg 
+[Snowbleach] Laurick "The Eye": [Talk] Make sure no one steals anything to benefit his own 
+[peprino] Golnauk Thrugrim: [Talk] the South gate is broken too.. 
+[swEEpEr14] Carven Deepforge: [Talk] *watches water* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *sighs* 
+[Snowbleach] Laurick "The Eye": [Talk] [folds his arms] 
+[Snowbleach] Laurick "The Eye": [Talk] ''''' ''' '''' 
+[peprino] Golnauk Thrugrim: [Talk] We need some more men there.. 
+[gafferpool] Baden Swan: [Talk] Then we shall take his body to the tent* wipes blood from his eyes* 
+[Anselmo] Malcor Blackarrow: [Talk] i claim my friend odins things 
+[GoldenProphet] Raena Fallbrooke: [Talk] *Sobs softly, trying to gather isabel up* 
+[Aermord] Roald Vardenfell: [Talk] We are alive though.. for now. 
+[GoldenProphet] Raena Fallbrooke: [Talk] My sisters things will go to the hand 
+[Anselmo] Malcor Blackarrow: [Talk] *looks sad* 
+[swEEpEr14] Carven Deepforge: [Talk] *rubs stump absently* 
+Death Corpse: [Talk] Corpse of Redoric Thallas 
+[Aermord] Roald Vardenfell: [Talk] Sir Jasper.. Thank you. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *looks at all the bodies.* 
+Death Corpse: [Talk] Corpse of Redoric Thallas 
+[Undertowe] Pip Halloway: [Talk] Miss Raena... be ye needin' any 'elp? 
+Death Corpse: [Talk] Corpse of Redoric Thallas 
+[GoldenProphet] Raena Fallbrooke: [Talk] I.. I cant lift her 
+Jasper "The Wolf": [Talk] *spits out blood* 
+Jasper "The Wolf": [Talk] you best control these idiots 
+[Undertowe] Pip Halloway: [Talk] 'ou bou' 'er bits an' pieces? 
+[Aermord] Roald Vardenfell: [Talk] *blood is running freely from his nose* 
+[Homero] Grik Galf: [Talk] *coughs blood* 
+[Undertowe] Pip Halloway: [Talk] *points down* 
+[gafferpool] Baden Swan: [Talk] *places reds body over his shoulder and marches through the crowd * 
+[Lost Soul] Jervis: [Talk] *sobs* 
+Dropped Items: [Talk] Dropped Bag of Isabel Mensorrian 
+[Aermord] Roald Vardenfell: [Talk] We try.. but now we will try more.. 
+[Undertowe] Pip Halloway: [Talk] Dinna be forgettin' them. 
+[Snowbleach] Laurick "The Eye": [Talk] *looks at the dead bodies* 
+Death Corpse: [Talk] Corpse of Odin Windrivver 
+Jasper "The Wolf": [Talk] vanity cannot be trusted for long 
+[GoldenProphet] Raena Fallbrooke: [Talk] *looks over isabels things... sobbing more* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Baden 
+[Aermord] Roald Vardenfell: [Talk] *nods* 
+Dropped Items: [Talk] Dropped Bag of Odin Windrivver 
+[Undertowe] Pip Halloway: [Talk] *frowns deeply* 
+Khelkarak Stoneshoulder: [Talk] *watches, silently* 
+Jasper "The Wolf": [Talk] we must take him tribute 
+[GoldenProphet] Raena Fallbrooke: [Talk] *Gathers up the bag over her shoulder* 
+[swEEpEr14] Carven Deepforge: [Talk] *is missing left hand from elbow down* 
+[Dark_MBM] Prun Wist: [Talk] [face falls down, as he notices the bodies] 
+[GoldenProphet] Raena Fallbrooke: [Talk] Jasper sir... what does one... tribute to such a man as he? 
+[Aermord] Roald Vardenfell: [Talk] I shall inform our lord.. I do not know what we can give him as tribute. 
+[swEEpEr14] Carven Deepforge: [Talk] *continues to scan water* 
+Dropped Items: [Talk] Dropped Bag of Aley Allendt 
+Jasper "The Wolf": [Talk] neither do i 
+Jasper "The Wolf": [Talk] i know nothing of high magic 
+Jasper "The Wolf": [Talk] i know gold is worthless 
+[Snowbleach] Laurick "The Eye": [Talk] Bernard might 
+[Aermord] Roald Vardenfell: [Talk] I dont even think the amulet around your neck would be enough 
+[GoldenProphet] Raena Fallbrooke: [Talk] Arinhild.. please.. help me carry her 
+[peprino] Golnauk Thrugrim: [Talk] [gestures] 
+[bredbergen] Cane Wallace: [Talk] *frowns as he sees the bodies* 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+[ChaosShade] Arinhild the Fierce: [Talk] *drops down next to Isabel* 
+Jasper "The Wolf": [Talk] tale speaks this wizard is known? 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *frowns.* 
+Jasper "The Wolf": [Talk] from a place called DaggerFord 
+[Aermord] Roald Vardenfell: [Talk] And loosing it would be catastrophic for us all now. 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+Jasper "The Wolf": [Talk] is there any that knows of the tale? 
+[Anselmo] Malcor Blackarrow: [Talk] poor odin 
+[Aermord] Roald Vardenfell: [Talk] I have not heard much about it. 
+[Aermord] Roald Vardenfell: [Talk] *looks around* 
+[Aermord] Roald Vardenfell: [Talk] Grik 
+Jasper "The Wolf": [Talk] he must want something 
+Jasper "The Wolf": [Talk] or we would be dead 
+[Homero] Grik Galf: [Talk] yes 
+[J-h-m-L] Nikandros Shapiro: [Talk] Ah hells... *gulps* Damn you, Isabel... *touches her hair, sighs* 
+[bredbergen] Cane Wallace: [Talk] *stands in silence* 
+Jasper "The Wolf": [Talk] *talks to himself almost* 
+[Aermord] Roald Vardenfell: [Talk] Grik.. did you live in Daggerford? 
+[Anselmo] Malcor Blackarrow: [Talk] *hefts odin's body* 
+[Homero] Grik Galf: [Talk] long time ago 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrmm... 
+[Aermord] Roald Vardenfell: [Talk] Do you remember the wizard we faced? 
+[peprino] Golnauk Thrugrim: [Talk] [o] This battle seems ended.. 
+[peprino] Golnauk Thrugrim: [Talk] u] Nrag phannho goorg oktot. 
+Death Corpse: [Talk] Corpse of Isabel Mensorrian 
+[Homero] Grik Galf: [Talk] yes.. me remember.. 
+[Man in the mirror] Yauthnorg: [Talk] Hm...  
+[Aermord] Roald Vardenfell: [Talk] What is his name? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Well... we came. 
+Khelkarak Stoneshoulder: [Talk] Tzh] Zhann... zha ziazla 
+[Homero] Grik Galf: [Talk] *confused* was him? 
+[Lost Soul] Jervis: [Talk] *looks at Grik* 
+[ChaosShade] Arinhild the Fierce: [Talk] *puts an arm under Isabel's knees and anouther behind her back and lifts her up* 
+[Man in the mirror] Yauthnorg: [Talk] .[Orcish] Strange strange... Almost all was magic and the dead... 
+[Homero] Grik Galf: [Talk] name.. name... me dont remember name 
+[GoldenProphet] Raena Fallbrooke: [Talk] *She winces, helping Arinhild lift her* 
+[peprino] Golnauk Thrugrim: [Talk] [nods] 
+[peprino] Golnauk Thrugrim: [Talk] kutg 
+[Aermord] Roald Vardenfell: [Talk] Do you remember anything about him? 
+[ChaosShade] Arinhild the Fierce: [Talk] *tears well up in her eyes and she blinks them back* 
+[peprino] Golnauk Thrugrim: [Talk] -[nods] 
+[Homero] Grik Galf: [Talk] *frowns in concentration* 
+[GoldenProphet] Raena Fallbrooke: [Talk] T..to my grove Arin... 
+[Homero] Grik Galf: [Talk] no... 
+[Homero] Grik Galf: [Talk] nothing.. 
+[Homero] Grik Galf: [Talk] sorry 
+[ChaosShade] Arinhild the Fierce: [Talk] *carries Isabel* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I NEEED LUMBER LOADERS TA HELP ME REBUILD THIS GATE.  MEET ME BY THA STORAGE CHEST! 
+[Aermord] Roald Vardenfell: [Talk] *sighs and rubs the blood from his nose all over his face* 
+[bredbergen] Cane Wallace: [Talk] *steps aside* 
+[Snowbleach] Laurick "The Eye": [Talk] *sticks a dagger in the dead goblin violently* 
+[Homero] Grik Galf: [Talk] *Coughs blood* 
+[Aermord] Roald Vardenfell: [Talk] I know not the tale about him, Jasper. But I shall try to find out. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* It seems we have travelled far, for little thanks... 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Frowns deeply:: 
+[Snowbleach] Laurick "The Eye": [Talk] By Ehlonna, what happened here? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* seems we didnt miss it after all 
+Jasper "The Wolf": [Talk] *places black velvet gloves on* 
+[Man in the mirror] Yauthnorg: [Talk] Hrrr... 
+[GoldenProphet] Raena Fallbrooke: [Talk] Please excuse me 
+[J-h-m-L] Nikandros Shapiro: [Talk] *moves the hood* 
+Jasper "The Wolf": [Talk] i retire for now 
+Jasper "The Wolf": [Talk] i shall return in the light 
+Khelkarak Stoneshoulder: [Talk] *nods grimly* [Dw] Aye, but they can nay be seeing we did nay come at all, at least... Guess we just need to be waiting for our guide back. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* All the better...wouldnt come here for nothing i would say... 
+[Aermord] Roald Vardenfell: [Talk] *nods slowly* Thank you for your help 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *eyes narrow 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* But then these humans have lost friends, we would be distracted also... 
+Jasper "The Wolf": [Talk] i suggest you defend your walls  
+[bredbergen] Cane Wallace: [Talk] *wipes off sweat and blood from his face* 
+Jasper "The Wolf": [Talk] and stop thanking me 
+Khelkarak Stoneshoulder: [Talk] *nods solemnly* 
+Jasper "The Wolf": [Talk] im here becuase its to my advantage 
+[Homero] Grik Galf: [Talk] eeerg 
+[Aermord] Roald Vardenfell: [Talk] *nods* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *narrows his slit-pupiled eyes, peering through the rain* 
+[Anselmo] Malcor Blackarrow: [Talk] sadly carries the large man* 
+[Homero] Grik Galf: [Talk] Captain dead...ohhh.. 
+[Dark_MBM] Prun Wist: [Talk] [glances around him, clears blood from his legs] 
+[Dark_MBM] Prun Wist: [Talk] kcersim ehyort nul, sciehm pcyyt whyl num cikm 
+[MachoGrande] Ealith Lue'Asar: [Talk] c: Roals where can we be of best use.. 
+[Aermord] Roald Vardenfell: [Talk] Work on the gate, we need both of them rebuild as soon as possible. And we need people to guard every entrance. 
+[peprino] Golnauk Thrugrim: [Talk] The captain Redoric has died? 
+[bredbergen] Cane Wallace: [Talk] *turns around to the elfs* the battle is over.. for now.. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *Nods to Roald.* 
+[MachoGrande] Ealith Lue'Asar: [Talk] :nods: 
+[bredbergen] Cane Wallace: [Talk] *shrugs* 
+[Lost Soul] Jervis: [Talk] *sighs* 
+[Lost Soul] Jervis: [Talk] I best go see to the Sarge 
+[Aermord] Roald Vardenfell: [Talk] Thank you for comming, Elves from the south. 
+[bredbergen] Cane Wallace: [Talk] 'sighs and walks away* 
+[Homero] Grik Galf: [Talk] yes..me goes too 
+[MachoGrande] Ealith Lue'Asar: [Talk] :sighs:  
+[swEEpEr14] Carven Deepforge: [Talk] [dw] tis a matter o' time till this scene be played out at tha Hold 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] kath az lazkkah ur' kala kann k'ath thziara poa rhnazoat ur'k azk k'az 'urn 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *c* it appears we took too long  
+[Man in the mirror] Yauthnorg: [Talk] Hrrr...  
+[Homero] Grik Galf: [Talk] *nods* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Ill expect at least on arrow of mine in a monsters throat less this expidition counts as failed to me... 
+[MachoGrande] Ealith Lue'Asar: [Talk] I wish we could have been f more use.. 
+[Aermord] Roald Vardenfell: [Talk] Even with your help here, we could not have stood against it. We surrendered 
+[Man in the mirror] Yauthnorg: [Talk] Ro grahog rh'h' 
+[MachoGrande] Ealith Lue'Asar: [Talk] correlon.. how many dead? 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] (darkly) No doubt we will be, in the near future. 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Aye... But then... Kal-ahn'dur ain't no easy pickings. 
+[Aermord] Roald Vardenfell: [Talk] I do not know yet.. five perhaps more. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *tilts his head slightly and nods sagely* 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[MachoGrande] Ealith Lue'Asar: [Talk] :sighs deeply: each a candle snuffed so easily this day.. may they rest with their gods.. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Hrm... 
+[Aermord] Roald Vardenfell: [Talk] *nods* We would be honored if you will help us guard our home this night. 
+[TheHopelessRomantic] Nánielle Quénn'gill: [Talk] *turns and looks at Roald, studying his wounds* 
+[swEEpEr14] Carven Deepforge: [Talk] hmph 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: my kin.. will you stay and aid hte humans this eve? 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances behind him for a moment* 
+[Aermord] Roald Vardenfell: [Talk] *rubs the blood flowing from his nose all over his face* 
+[Aermord] Roald Vardenfell: [Talk] *spits out a bit of blood* 
+[Man in the mirror] Yauthnorg: [Talk] Ro zrzghog ghakrnh' 
+[Nightfall-] Thalandir  Illithien: [Talk] You have my bow for this, a day will come and we will fight together against the red scum, we must all stand together now. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *frowns down at Ealith* [e] You sound as if you will not stay, yourself. I for one shall remain. 
+[Anselmo] Malcor Blackarrow: [Talk] *lays odins body on the fire* 
+[MachoGrande] Ealith Lue'Asar: [Talk] :glances up: e: dont put words in my mouth Kebril.. of course im stayin 
+[gafferpool] Baden Swan: [Talk] *Glances around* 
+[TheHopelessRomantic] Nánielle Quénn'gill: [Talk] Roald dear. We have to get you bandaged up *looks concerned* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *tilts his head to the side and shrugs* [e] mere jest, no more. I do not doubt you. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *smiles slyly* *e* dont think i promised a lady my company for this eve yet so i should have the time *smirks 
+[peprino] Golnauk Thrugrim: [Talk] ah, here you are.. 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] [Orc] Well, are the two of you happy now? 
+[MachoGrande] Ealith Lue'Asar: [Talk] c: roald we woudl be honored to help 
+[Aermord] Roald Vardenfell: [Talk] These are only bruises, my love. 
+[peprino] Golnauk Thrugrim: [Talk] -[nods] 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *frowns.* 
+[Aermord] Roald Vardenfell: [Talk] *looks dizzy* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] [Orc] Grik, what have you been doing? 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *sighs softly* *C* I suggest we stop bickering and put ourselves too good use....i myself count myself useless seeing as no bow is needed now...*chuckles lightly* 
+[Snowbleach] Laurick "The Eye": [Talk] *pulls his dagger out of the goblin* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *nods slowly to ealith* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] we dun seem ta be wither needed er even existin 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] zha t'r thaal kaz poa zhak'ah raatat ah agar aqathka 
+[Raith Sidhe] Volence moors: [Talk] *passes the dwarf some lumber* 
+Dropped Items: [Talk] Dropped Bag of Odin Windrivver 
+[TheHopelessRomantic] Nánielle Quénn'gill: [Talk] *takes out a piece of cloth and holds it up to Roald's nose* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] shoulda ne'er left tha hold... 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] th'ur'ntaz ra'ah nawak k'az 'urnt.. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *places his hand on anelas;  shoulder and leaves his a slight grin* *E* DOnt die on me now during my absence 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -common- *whisper* who is in charge here? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* shal ltry not to  
+[peprino] Golnauk Thrugrim: [Talk] -[stands by her] 
+[swEEpEr14] Carven Deepforge: [Talk] *rubs stump* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] From where might the enemy forces approach next? 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] I would nay say that... We showed friendship to the humans in the Thane's name... Counts for something at least 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] /e/ have our defenses been warned? 
+[Aermord] Roald Vardenfell: [Talk] *looks at the dwarf* I am at the moment. 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] Let us head for the hill, we are merely of use in this spot. 
+[Nightfall-] Thalandir  Illithien: [Talk] a] Caan yla irailw oem anira irecc, ama ilma samaca eo ylaa el anirela latyean 
+[Anselmo] Malcor Blackarrow: [Talk] good byr friend 
+[bredbergen] Cane Wallace: [Talk] *looks down at the pyre* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] says that Khazad be better'n humans, but we were knowin that afore 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] thazoth k'azk G'azjazt poa poakkah'r ''lazrth, po'k zha zhaha grurzhar k'azk azwaurh 
+[Anselmo] Malcor Blackarrow: [Talk] journey well to valhalla 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] *nods* [Orc] Yes. Thank you. We need things like that, if we're to stay alive. 
+Dropped Items: [Talk] Dropped Bag of Baden Swan 
+[Dark_MBM] Prun Wist: [Talk] [watches the fire, wipes a tear from his fface] 
+[Dark_MBM] Prun Wist: [Talk] zedsnim dni wuhi, zubim e dieh whyl num wwesi 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -common- *whisper* we have come to aid you if it is needed... but it seems we arrived too late.  is their word you wish me to take to our Thane? 
+[Anselmo] Malcor Blackarrow: [Talk] odin were a great man 
+Khelkarak Stoneshoulder: [Talk] *grunts, nodding* [Dw] Aye... We be having an image to protect, now. We did the right thing, I be thinking still. 
+[Snowbleach] Laurick "The Eye": [Talk] Sir *to Roald*...Is the Captain really no more? 
+[Aermord] Roald Vardenfell: [Talk] We need your help here to rebuild the gate and perhaps help us keep watch this night. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] [e] What now, then? 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] a] Amirilan leam, aniral 
+[Anselmo] Malcor Blackarrow: [Talk] so long odin 
+[swEEpEr14] Carven Deepforge: [Talk] *scowls* 
+[Aermord] Roald Vardenfell: [Talk] Captain Redoric fell. *looks sad* 
+[Anselmo] Malcor Blackarrow: [Talk] the gods will hold you up as a chief 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] [Orc] I'm sure we can leave that to Grik. Grik, do you need anything? 
+[bredbergen] Cane Wallace: [Talk] *seems lost in thought* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* We shall stay the night then. 
+[MachoGrande] Ealith Lue'Asar: [Talk] :nods 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Roald did ye receive tha lumber I sent fer tha gate mate? 
+[Anselmo] Malcor Blackarrow: [Talk] i must to my box 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Aye, well enough. 
+[Aermord] Roald Vardenfell: [Talk] *nods slowly* Thank you, kind khazad 
+[swEEpEr14] Carven Deepforge: [Talk] *sneers slightly* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] [Orc] I'll get some scrap metal, but it isn't much. 
+[Aermord] Roald Vardenfell: [Talk] *looks at Holt* I do not know whom it were passed on to, but I know someone took it. 
+[Snowbleach] Laurick "The Eye": [Talk] *puts hand on Raoald's s houlder* I am sorry 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Yer better at leadin stoof like this den I 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Carven, Khelkarak.  we shall stay here till dawn.  We will offer what aid they will recognise. 
+[Dark_MBM] Prun Wist: [Talk] -[speaks slowly and apatheticly] -c- tis be sad day .[wipses a tear from his face] 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ye should prolly get tha men ta do tha buildin.  I know nuffin 'bout this stuff 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] aye then 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Very well, lass. 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ye build barracades right? 
+[Aermord] Roald Vardenfell: [Talk] Neither do I, the dwarves however know much. 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] [Orc] I'll go get it, before we're thrown out again. 
+[Aermord] Roald Vardenfell: [Talk] I am no builder 
+[TheHopelessRomantic] Nánielle Quénn'gill: [Talk] *slides her hand into roald's hand* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *nods* 
+[Homero] Grik Galf: [Talk] *orc* thanks again Zubarda.Grik dont forget 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* seems we missed the fighting  
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] (darkly) *e* this is all-too-similar to the desperate defense of the fortress a few months ago. 
+[MachoGrande] Ealith Lue'Asar: [Talk] :shrugs: e: I wish I had missed more.. I have never seen such an assault anelas.. 
+[Aermord] Roald Vardenfell: [Talk] *looks very tired* 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *whisper* You will have to redig your postholes, before you can even think of hanging new gates. 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: but the humans.. they have a will to live..  
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ursullir... how much it cost fer us ta get a nice gate oop quick? 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+Dropped Items: [Talk] Dropped Bag of Baden Swan 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* ive seen worse 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] The red scum holds the strength of the cursed children of Lolth.... 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: and even against such odds.. they stand strong and united..  
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Shovels?  We'll need shovels den? 
+[TheHopelessRomantic] Nánielle Quénn'gill: [Talk] *looks back at laurick* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Arigh I'll go buy some 
+[Aermord] Roald Vardenfell: [Talk] *walks toward the tent, holding Nanielles hand* 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: theres no such thing as worse.. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances to the side, his slit-pupiled eyes widening* *e* They.....he allies with them? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* there is  
+[MachoGrande] Ealith Lue'Asar: [Talk] e: death is death.. no matter what 
+[Nightfall-] Thalandir  Illithien: [Talk] Rolad, gather your archers, order them to cover the hill, please. 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: maybe to you. 
+[Snowbleach] Laurick "The Eye": [Talk] There are still some stuff left from the Captain. What should I do with it 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* when i first came here this kind of fighting was in our woods 
+[Aermord] Roald Vardenfell: [Talk] Yes... Many are wounded though.. Make sure a few remain standing there at all time. 
+[Snowbleach] Laurick "The Eye": [Talk] I took the Captain's cloak and an axe 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: seldarinre.. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* our kin were slaughtered before i even knew them ...  
+[MachoGrande] Ealith Lue'Asar: [Talk] e: by who? 
+[Nightfall-] Thalandir  Illithien: [Talk] Ealith, ready your bow. 
+[Aermord] Roald Vardenfell: [Talk] Give me the captains things then. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* put your weapons away. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances to Thal curiously* 
+[Aermord] Roald Vardenfell: [Talk] I shall store them and make sure they are passed on. 
+Khelkarak Stoneshoulder: [Talk] *grunts, nodding slowly* 
+[Snowbleach] Laurick "The Eye": [Talk] *looks up at the elves* *shouts* I'm an archer, but I have used all of my arrows 
+[gafferpool] Baden Swan: [Talk] The cpatin s things are stord roadl 
+[Nightfall-] Thalandir  Illithien: [Talk] This is not over yet, I am certain. 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] -dwarven- *whisper* Get some rest, Carven. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods down to Laurick, then looks to the other elves questioningly* 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Aermord] Roald Vardenfell: [Talk] *looks at Laurick* I am speaking to you 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: ive none.. 
+[MachoGrande] Ealith Lue'Asar: [Talk] e: or so few I coudlnt spare 
+[Aermord] Roald Vardenfell: [Talk] Please hand me the captains equipment, I will store it for later use. 
+[gafferpool] Baden Swan: [Talk] Roald ...the captains things are safe  
+[Snowbleach] Laurick "The Eye": [Talk] I'm sorry 
+[Aermord] Roald Vardenfell: [Talk] Not all of it, Baden. 
+Khelkarak Stoneshoulder: [Talk] [Dw] Either of ye have any food? Left before I could be finding some... 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Mutters to himself in elven:: [e] What of the western gate... 
+[Tathkar Eisgrim] Ursullir Grimmskald: [Talk] *Nods.* 
+[gafferpool] Baden Swan: [Talk] What so you mean *looks angry * 
+[Aermord] Roald Vardenfell: [Talk] *smiles* Thank you 
+[Aermord] Roald Vardenfell: [Talk] I have the last here 
+[Snowbleach] Laurick "The Eye": [Talk] That was all 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] gots some berries an nuts. 
+Khelkarak Stoneshoulder: [Talk] *inclines his head* [Dw] Me thanks, lass. 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[Aermord] Roald Vardenfell: [Talk] A cloak and a woodcutter axe, Baden 
+[Nightfall-] Thalandir  Illithien: [Talk]  I need few of you to aid me setting a barricade in the west. 
+[Aermord] Roald Vardenfell: [Talk] I shall store it. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] (quietly_ [e] Is there any other way they can invade Stormhold? Other than these two gates? 
+[gafferpool] Baden Swan: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] *wolfs down some stew* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods* [e] Aye, very well. 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] will we camp together? 
+[Nightfall-] Thalandir  Illithien: [Talk] Anelas, please come along. 
+[gafferpool] Baden Swan: [Talk] *looks down at thte dead sadly * 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] I'd prefer ta be near friends if'n I be restin me head 
+[Lost Soul] Jervis: [Talk] *picks up body* 
+[Nightfall-] Thalandir  Illithien: [Talk] Dwarves, aid us setting up a barricade in the remnants of the western wall. 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] please 
+[swEEpEr14] Carven Deepforge: [Talk] *smirks* 
+[Lost Soul] Jervis: [Talk] I'll see this body to the hill 
+Khelkarak Stoneshoulder: [Talk] [Dw] Carven, ye be tired, or just a little worse for wear? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] aye 
+Khelkarak Stoneshoulder: [Talk] [Dw] Which is it? 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+[Snowbleach] Laurick "The Eye": [Talk] [c] Can someone tell me what happened aexactly? When I came here, the gate was gone a we were under attack by the shadow creatures.... 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] jes a bit beated up 
+[Snowbleach] Laurick "The Eye": [Talk] *nods* 
+[Lost Soul] Jervis: [Talk] *carries body* 
+[swEEpEr14] Carven Deepforge: [Talk] *bows to Khelkarak* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] thanks fer that 
+Khelkarak Stoneshoulder: [Talk] [Dw] Now... Where were we so kindly asked to help? 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Western gate were it? 
+[Nightfall-] Thalandir  Illithien: [Talk] Aye. 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Wha else do ye need fer tha construction mate? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] GOld, men? 
+[swEEpEr14] Carven Deepforge: [Talk] *rubs stump* 
+[swEEpEr14] Carven Deepforge: [Talk] *looks to Khelkarak* 
+Khelkarak Stoneshoulder: [Talk] *grunts* Te be getting that gate back up? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] I ne'er builded nothin? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye tha gate 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ye dwarves be rum at buildin stoof, aye? 
+[Homero] Grik Galf: [Talk] Jervis ..need me? 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] *lugs a sawhorse* 
+[Homero] Grik Galf: [Talk] Baden? 
+[Lost Soul] Jervis: [Talk] * need to get this body up the hill 
+[Homero] Grik Galf: [Talk] ah 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] what the hells 
+[gafferpool] Baden Swan: [Talk] tis alright grilk we are just seeing to this body  
+[Lost Soul] Jervis: [Talk] hand it to me 
+[Homero] Grik Galf: [Talk] me goes too 
+Khelkarak Stoneshoulder: [Talk] *grunts* Neither of us'n be buildin' too much afore... We can try to 'elp what we kin though. 
+[swEEpEr14] Carven Deepforge: [Talk] *stares at human* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Hrm... well den 
+[swEEpEr14] Carven Deepforge: [Talk] ] 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Thanks anyhow.. *nods and rushes off* 
+[swEEpEr14] Carven Deepforge: [Talk] heh 
+Khelkarak Stoneshoulder: [Talk] *pauses for a moment* ... 
+Khelkarak Stoneshoulder: [Talk] [Dw] Right... Looks like it be our job to shut up and stand watch or something 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] aye, so'd be seemin 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] yer a dwarf! da ya eat rocks an build castles? 
+Khelkarak Stoneshoulder: [Talk] *chuckles* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] ale an wenches 
+Khelkarak Stoneshoulder: [Talk] [Dw] Well, let's get to the guarding then... 
+[swEEpEr14] Carven Deepforge: [Talk] *shakes head* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Lets get some more and get on this 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Ah. Excuse me, masters Dwarf. 
+[MColes] Cale: [Talk] *looks out over the water his hand patting the wolf to calm it* 
+Khelkarak Stoneshoulder: [Talk] *grunts* Aye? 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] *scratches her arse* I have been meaning to send a trade caravan up the mountain, but frankly none seems to know the way. 
+[swEEpEr14] Carven Deepforge: [Talk] *watches Tesalyn closely* 
+[MColes] Cale: [Talk] looks down at the goblin his nose twitching slightly.  Calmly he pushes it towards the waters edge slightly* 
+Khelkarak Stoneshoulder: [Talk] *shrugs* Someone obviusly does as word were sent to us. 
+[swEEpEr14] Carven Deepforge: [Talk] *is missing left hand from the elbow down* 
+[MColes] Cale: [Talk] *motions his head for the wolf* 
+[swEEpEr14] Carven Deepforge: [Talk] *peers at Zubarda and nods pleasantly* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Well, then would you mind sharing as to how one can get a mule up the mountain? And what kind of trade goods are wanted among your people? 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *leans against the wall, his arms crossed and his longbow placed against the wall aswell* *C* Indeed i wondered what took you so long.... 
+[MColes] Cale: [Talk] [E] come on our old man.. thought I reckognized yer scent.. 
+[swEEpEr14] Carven Deepforge: [Talk] *pulls beard* 
+[Snowbleach] Laurick "The Eye": [Talk] *carries 6 pieces of lumber* 
+Khelkarak Stoneshoulder: [Talk] *furrows his brows* Nay idea. I'm nay a trader. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Well...the scent of the old and decaying is not a hard one to notice cynical one....*grins slightly from under his hood*....I do welcome you to civilasation 
+[MColes] Cale: [Talk] I had troubles of my own.. 
+[swEEpEr14] Carven Deepforge: [Talk] I does be thinkin there be interest in tradin with yer though 
+[Snowbleach] Laurick "The Eye": [Talk] [drops the pieces on the ground and starts making a small pile of lumer] 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Hmm. Well, then can I come some time to duiscuss such? Would I be welcome? 
+[MColes] Cale: [Talk] Had to break a few skulls on the way here... 
+[swEEpEr14] Carven Deepforge: [Talk] what'd ya be lookin fer? 
+Khelkarak Stoneshoulder: [Talk] *nods at Carven's words* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *looks around thoughfull 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Frankly, we need better armour. Much better armour. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *chuckles lightly* *E* I can imagine.... 
+[swEEpEr14] Carven Deepforge: [Talk] I'd be hopin as much *smiles at Zubarda* 
+[MColes] Cale: [Talk] *shifts his belt slightly as a sword hangs at his side now* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] Goblins grow like grass on this isle it would seem..... 
+[MColes] Cale: [Talk] *what appears to be a Spear or trident pokes out form under his cloak* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] if'n we be talkin ta the elfs an rude gnomies an butcher humans... how bad c'n they be? 
+Khelkarak Stoneshoulder: [Talk] *hides a grin beneath his beard* [Dw] True enough 
+Khelkarak Stoneshoulder: [Talk] If'n ye be coming to speak of trade, ye'd be welcomed, I would be sayin. 
+[Thestral0722] Koren Tallus: [Talk] **mumbles as he runs by** gotta find holt.. 
+[swEEpEr14] Carven Deepforge: [Talk] I be Carven o' Iron Hill.  If'n ya gives me a name, I c'n pass it  on ta rest 
+[swEEpEr14] Carven Deepforge: [Talk] so as they maybe familiar 
+Dropped Items: [Talk] Dropped Bag of Odin Windrivver 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I'm glad to hear that. Now all i need to know, if where to go, and how to get there. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm...nonetheless...although you humans do die on me too often...i am quite glad you did survive 
+[MColes] Cale: [Talk] [e] you and me both old one. 
+[MColes] Cale: [Talk] a] aey illw sa feanir ecw ela 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] My name is Zubarda Thrugrim. 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs*  I canna be helpin ya there... I jes follows tha beard in front o' me 
+Khelkarak Stoneshoulder: [Talk] *shrugs* May wish to be speaking to the 'uman Malcor... 'E were who came up and sought us. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *grins slightly and nods slowly* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *watches the human run around thoughfull 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Malcor? I shall seek him out then. 
+[swEEpEr14] Carven Deepforge: [Talk] *nods*  aye 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] were she said her name be Thorgrim? 
+[Man in the mirror] Yauthnorg: [Talk] [He coughs heavily and falls to his knees] 
+[Man in the mirror] Yauthnorg: [Talk] Ro zukrg rohagah' hakt hahhg nu rag gkoog 
+[Man in the mirror] Yauthnorg: [Talk] .[He then slowly stands up again, supporting himself on his spear, while licking blood of his lips] 
+Khelkarak Stoneshoulder: [Talk] *nods* I be Khelkarak o' Iron Hill, by the way 
+[Man in the mirror] Yauthnorg: [Talk] .[He looks at the large rat before him, nods and then walks] 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Be what I were hearing, aye 
+[MColes] Cale: [Talk] *speaks quietly with lillith* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm.....nonetheless cynical Cale....I wonder.... 
+[Man in the mirror] Yauthnorg: [Talk] .[Orcish] Lies lies lies lies.... Hrrr... 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Pleased to meet the both of you. I'd introduce my friend here, but he's somewhat speechless. 
+[swEEpEr14] Carven Deepforge: [Talk] *eyes narrow*  [dw]  that be explainin some things * chuckles* 
+[MColes] Cale: [Talk] *pauses and glances over* 
+[MColes] Cale: [Talk] .[E]I am when i need to be 
+[Man in the mirror] Yauthnorg: [Talk] Hrrr... 
+[swEEpEr14] Carven Deepforge: [Talk] an yerself Zubarda 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *eyes the old orc with obvious disgust 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *slowly turns to Thalandir* *E* What the boy ment to say was is "yes" *grins slightly* 
+[swEEpEr14] Carven Deepforge: [Talk] *bows slightly* 
+[Man in the mirror] Yauthnorg: [Talk] .[He looks at Zubarda whilst scratching the large rat behind its ear] 
+[MColes] Cale: [Talk] *his eyes slowly move over to lillith as a slight smirk crosses his lips* 
+[MColes] Cale: [Talk] I make no city my home... my friend and I smelt blood on the wind... 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm..well do you Cale? Care for this place? 
+Khelkarak Stoneshoulder: [Talk] *turns his gaze northward* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *fiddles with the feathering of his arrows 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] Excused you are good thalandir 
+[Man in the mirror] Yauthnorg: [Talk] .[His spear has many small bags, made of leather and rat skin, tied to it. Rat tails, brown and grey feathers, bird claws, different plants and roots, and mushrooms is tied to the spear  with sinew] 
+[MColes] Cale: [Talk] .[E] as if I were lucky enough to have arrows... 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Nice boy...bit too rash at times... 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] dunno who be makin me more nervous tha elfs er tha half-bloods 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] t'rrur zh'ur poa lazgar la lurha rahgur'th k'az anwath ah k'az 'aznwa-ponururt 
+[Man in the mirror] Yauthnorg: [Talk] .[This half-orc is very old and very weak, he doesn't seem able to walk on his own. He is barely five feet tall.] 
+[bredbergen] Cane Wallace: [Talk] *carries ona  large amount of lumber* 
+[Snowbleach] Laurick "The Eye": [Talk] Senator? 
+[swEEpEr14] Carven Deepforge: [Talk] *rubs stump of missing left arm* 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Least we be knowing the Thane be having some sort of relations with the elves... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye lets git started 
+[bredbergen] Cane Wallace: [Talk] *begins to pile it up* 
+[Man in the mirror] Yauthnorg: [Talk] .[He plays with the rat smiling slightly] 
+[Snowbleach] Laurick "The Eye": [Talk] I've piled up the lumber as you said 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Now....as i said before i was rudely interupted...how fares with things all concerning the..... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Rum 
+[bredbergen] Cane Wallace: [Talk] *steps over the bloodstains* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Now build as best ye kin mate 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I'll see ye paid fer it 
+[Snowbleach] Laurick "The Eye": [Talk] Aye, sir 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *pulls the string of his bow a bit with an arrow knocked all the while studying the orc  
+[Man in the mirror] Yauthnorg: [Talk] [He coughs heavily for a while, then turns and walks away] 
+[Man in the mirror] Yauthnorg: [Talk] Ro zukrg rohagah' uh ha rraho, nrok nhkg hakt rhahgg harha' 
+[bredbergen] Cane Wallace: [Talk] *tries to pile up the lumber along the wall* 
+[MColes] Cale: [Talk] *whispers quietly with Lillith* 
+[Snowbleach] Laurick "The Eye": [Talk] *gives Cale a hand* 
+[Anselmo] Malcor Blackarrow: [Talk] gods 
+[bredbergen] Cane Wallace: [Talk] *huffs* 
+[Man in the mirror] Yauthnorg: [Talk] .[He sits down and leans himself against the wall] 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Well.. tha was nice battle... *sighs* 
+[swEEpEr14] Carven Deepforge: [Talk] *watches Tesalyn* 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] *sets down a sawhorse* 
+[Anselmo] Malcor Blackarrow: [Talk] *stands silently* 
+[bredbergen] Cane Wallace: [Talk] *nods for himself* hope that''ll do.. 
+Khelkarak Stoneshoulder: [Talk] *inclines his head to Tesalyn as she passes* 
+[Man in the mirror] Yauthnorg: [Talk] .[He coughs to himself, blood soon covers his lips and chin] 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] makes me nervous too 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] lazgath la rahgur'th kur 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] *nods* 
+[Snowbleach] Laurick "The Eye": [Talk] [putting the lumber in neat rows, starting to make a base for the gate] 
+[Snowbleach] Laurick "The Eye": [Talk] ''''''' ''' '''''' '' '''' '''', '''''''' '' '''' ' '''' ''' ''' '''' 
+[bredbergen] Cane Wallace: [Talk] *looks at Prun and smailes faintly* see you made it 
+[MColes] Cale: [Talk] *Holds his hand out to the side and the wolf comes up and brushes it slightly, sitll looking around guarded* 
+[Man in the mirror] Yauthnorg: [Talk] .[Poorly spoken Druidic] Alright Furs... Yauthnorg is all all always alright right... 
+[Dark_MBM] Prun Wist: [Talk] .[speaks slowly and apatheticly] -c- i always do [grins for a moment] 
+Khelkarak Stoneshoulder: [Talk] *shrugs* [Dw] Least there be one what we recognize 
+[bredbergen] Cane Wallace: [Talk] *grins slightly* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] My apologies, my mind wandered. You were saying? 
+[bredbergen] Cane Wallace: [Talk] aye so it seems.. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *nods slowly* *E* Indeed then....hmm nonetheles perhaps you should take more active actions to certify the existance of this group.... 
+[bredbergen] Cane Wallace: [Talk] *looks up and waves to malcor* good to see you're alive 
+[MColes] Cale: [Talk] *glances around slightly* 
+[Dark_MBM] Prun Wist: [Talk] .[looks up] 
+[Anselmo] Malcor Blackarrow: [Talk] aye...had to run north to gather our dwarven allies 
+[swEEpEr14] Carven Deepforge: [Talk] Lass, might I be helpin ya carry  some *to Tesalyn* 
+[bredbergen] Cane Wallace: [Talk] aye.. heard about it.. a long run 
+[Snowbleach] Laurick "The Eye": [Talk] Can someone please give me a hand *looks frustrated* 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] T'would be appreciated, to slow them down 
+[Anselmo] Malcor Blackarrow: [Talk] hmm 
+[bredbergen] Cane Wallace: [Talk] *looks at Laurick* 
+[bredbergen] Cane Wallace: [Talk] aye? 
+Dropped Items: [Talk] Dropped Bag of Isabel Mensorrian 
+[Anselmo] Malcor Blackarrow: [Talk] did rugo make it back 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] watch me back 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] zhazkzi' la poazzi 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *speaks plainly without emotion* *E* The name of Redoric the seasoned warrior has been fallen a few times 
+[swEEpEr14] Carven Deepforge: [Talk] show me what yer carryin then 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[MColes] Cale: [Talk] *His eyes strain visibly as his mouth starst to open but ust hangs* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *grins* 
+[Malacar] Bernard Fallowfield: [Talk] *looks about* 
+[swEEpEr14] Carven Deepforge: [Talk] *rolls neck and swings remaining arm in slow circles* 
+[Man in the mirror] Yauthnorg: [Talk] Hrrr.... 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *watches holt and malcor  
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *nods slowly* *E* Let us then hope he died with peace and contend..... 
+[swEEpEr14] Carven Deepforge: [Talk] sacks mebbe? 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] May help 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] grows tired o' bein ignored 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *slowly rephrases it* *E* Peace and contend.... 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* 
+[swEEpEr14] Carven Deepforge: [Talk] *calls over* ya wants these sacks er barrels? 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Khelkarak Stoneshoulder: [Talk] <cþ>[Character Control Panel]</c> - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] [ Special ] 
+Khelkarak Stoneshoulder: [Talk] [ Special ] - Please select your chosen action/emote. 
+Khelkarak Stoneshoulder: [Talk] Pick Up a PPP (note: The PPP must be the closest Placeable you are standing near, or it will not pick up.  You must also be within 5 meters of it.) 
+Khelkarak Stoneshoulder: [Talk] *grunts* 
+[swEEpEr14] Carven Deepforge: [Talk] *carries full barrel under right arm* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm mind you.... 
+[Snowbleach] Laurick "The Eye": [Talk] The base is finished Senator *points at the beams, forming a steady base for the gate* 
+[swEEpEr14] Carven Deepforge: [Talk] *dumps barrel* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *watches past the dwarves as if looking if somethign creept up behidn them 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ahh rum work! 
+[Snowbleach] Laurick "The Eye": [Talk] That is all I can do for now 
+[bredbergen] Cane Wallace: [Talk] I wonder when the next attack will be.. 
+[Anselmo] Malcor Blackarrow: [Talk] *shrugs* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *nods* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Gud 'nuff 
+[Anselmo] Malcor Blackarrow: [Talk] we best be ready 
+[Thestral0722] Koren Tallus: [Talk] Wel... Wha' the 'ell happened Holt... 
+[bredbergen] Cane Wallace: [Talk] *nods slowly* aye... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] We'll have samin do tha rest *calls out* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Thayan Wizzard attacked 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *c* did the wizard coem himself ? 
+[Thestral0722] Koren Tallus: [Talk] Thayans round these parts?? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye Anelas! 
+[bredbergen] Cane Wallace: [Talk] I hope Brance made it? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *nods to Koren* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Right then.. Back to guarding and not speaking or being spoken to... 
+Khelkarak Stoneshoulder: [Talk] Tzh] Hak'k k'ar.. Poazzig kur k'azhtark azrt rurk thrhaazgark urh poaark thrhurgar kur.. 
+[Thestral0722] Koren Tallus: [Talk] *grimaces* Thas' no good mate 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] wants ta see some ta make ya smile, made it taday fer Gildi... 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] zhazrkth kaz thaa thurla kaz lazga oaz thlana, lazta ak kaztazo waah Kanta.. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] you greeted him befitting his station ? 
+[Snowbleach] Laurick "The Eye": [Talk] Senator I've fninished work on the base of the gate, that is all I can do for now 
+[Thestral0722] Koren Tallus: [Talk] Are there ta be more attacks... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Gud work *to Laurick* 
+[Anselmo] Malcor Blackarrow: [Talk] brance i saw him alive 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Take a rest mate 
+[Snowbleach] Laurick "The Eye": [Talk] *nods* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] oh aye, good work mate 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] ur' azoa, kururt zhurhg lazk 
+[Dark_MBM] Prun Wist: [Talk] .[nods] .[speaks slowly and apatheticly] -c- he be livin 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] well now we only be able to get past that ourselves  
+Khelkarak Stoneshoulder: [Talk] *raises a brow* 
+[bredbergen] Cane Wallace: [Talk] that's good.. 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] ahe dwarfs, wanna go eat some rocks er some! 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] az'a tzhazhwath, zhazrraz kur aazk thurla hurzigth ah thurla 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *nods content 
+Khelkarak Stoneshoulder: [Talk] *chuckles* 
+[Thestral0722] Koren Tallus: [Talk] *eyeballs the dwarves axes* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] mebbe drink some ale, hide under a stone and hoard some gold? 
+[swEEpEr14] Carven Deepforge: [Talk] tzh] lapopoa tharg thurla azna, 'ata 'rtah az thkurra azrt 'urazht thurla kurnt 
+[Man in the mirror] Yauthnorg: [Talk] .[Poorly spoken Druidic] So Maybe we should just leave Furs? Hrrrr... Find Zubarda first first... 
+[swEEpEr14] Carven Deepforge: [Talk] bah! 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *nods to Anelas* 
+Khelkarak Stoneshoulder: [Talk] *grins* 
+[Man in the mirror] Yauthnorg: [Talk] [He walks slowly and uses his spear as a walking staff to support himself to] 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Rough night.. 
+[Man in the mirror] Yauthnorg: [Talk] Ro rhahgg ghurh' hakt gog rag gbohah hag ha rhahgakk gnha nu gbbuhn rargoh nu 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *nods to holt* sadly we could not come earlier  
+[Dantes_Quietus] Choal Da'Silvan: [Talk] We lost many mate... but we live 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Yer efforts are appreciated 
+[MColes] Cale: [Talk] *tilts his head slightly towards Orphen* 
+[Anselmo] Malcor Blackarrow: [Talk] so will he return you think 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *nods* i wouldnt have minded to pay that wizard back for the time he or his slaves nearly got me  
+[swEEpEr14] Carven Deepforge: [Talk] .[dw]  look 'ere 
+Khelkarak Stoneshoulder: [Talk] *raises a brow, looking* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *slowly turns to oprhen and grins slightly from under his hood* *E* Now...more recourcefull than i thought little one.....ever the delight to hear you once more 
+[bredbergen] Cane Wallace: [Talk] just a matter of time from what I have heard.. 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Mate, ye kinna pay back somone as strong as him... 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] war is never without loss  
+[Thestral0722] Koren Tallus: [Talk] *frowns* I shoulda been 'ere Holt.. 
+[bredbergen] Cane Wallace: [Talk] *shrugs* 
+[Dark_MBM] Prun Wist: [Talk] .[shrugs] .[speaks slowly and apatheticly] -c- tis be hard ta predict 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I know 
+[swEEpEr14] Carven Deepforge: [Talk] .[dw] nice aye? 
+Khelkarak Stoneshoulder: [Talk] *grins* [Dw] That be looking like a right fine one, aye 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Dinna worry Koren mate 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] We pulled through 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] The humans it would seem lost a battle against the red wizard this day...be honoured for you are part of history it would seem....*sighs soflty* 
+[Thestral0722] Koren Tallus: [Talk] *stomps the ground hard enough to sink his foot a bit* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] ive seen so many friends of my blood or others pass that there are few tears left  
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] **E 
+[bredbergen] Cane Wallace: [Talk] hard to predict when aye.. 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye, I know.  Death... I have become hardened... 
+[swEEpEr14] Carven Deepforge: [Talk] .dw] nun too bad fer a apprentice 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] eventually the weave will fail the wizard 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] lets guard in tha gate 
+Khelkarak Stoneshoulder: [Talk] *chuckles* [Dw] Aye, that be the truth 
+[Thestral0722] Koren Tallus: [Talk] *Eyes begin to turn a bit red* 
+[Anselmo] Malcor Blackarrow: [Talk] *watches out the gate* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Our people's priority is ta live... I fear we will have ta pay tribute now. 
+[magick65109] Orphen: [Talk] *Rough voice* Hello 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] the abuse of his gift will sooner or later coem back to him and the weave will consume him  
+[Nightfall-] Thalandir  Illithien: [Talk] [e] Elder Nighsong, have you any skills in healing? One of our brethern is in a grim condition. 
+[MColes] Cale: [Talk] *glances back at thalandir* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *nods but doesn't speak* 
+Khelkarak Stoneshoulder: [Talk] *plants his feet firmly, stretching his arms slightly* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] the question is how long that will take  
+[swEEpEr14] Carven Deepforge: [Talk] *watches out over "gate"* 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Eyes the hooded figure quizzicly, yet offers a slight nod:: 
+[bredbergen] Cane Wallace: [Talk] well well.. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *slowly shakes his head* *E* I fear I lost that ability long ago...hmm..ask the humans perhaps? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *lowers voice* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] did he suggest to you to pay tribute ? 
+[Anselmo] Malcor Blackarrow: [Talk] *nods stoicly* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Mind you....who is wounded now? 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Nods:: 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] I believe his name is Kebril, he rests in one of the tents. 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye he did 
+[Thestral0722] Koren Tallus: [Talk] *grimaces at holt* Tis not like you old friend.. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] for leaving you to live ? 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm.....ask for a human named Aesir.....he might help 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Ye have nay seen his power Koren 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] We already pay tribute mate... 
+[MColes] Cale: [Talk] *E* No doubt their healers are likly already hard pressed... 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] oh ? 
+[Thestral0722] Koren Tallus: [Talk] Aye kin 'e be that strong..?? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] But now it will likely go up 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] AYe he is tha strong... 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] it appears ive been in the south too long  
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Quite....but Aesir is a good boy...he will try to help to the best of his abilties 
+[Thestral0722] Koren Tallus: [Talk] *grimaces* 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] Anelas, is any of your friends her an healer? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I have missed yer company Anelas 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] hes a mortal still  
+[Dark_MBM] Prun Wist: [Talk] .[looks down to the dwarves] 
+[MColes] Cale: [Talk] *shrugs slightly and tilts his head* 
+[Thestral0722] Koren Tallus: [Talk] *look of anger in his face* We'll see 'ow strong he is... *turns to leave* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] Narumor is not kind to the people .. i could not leave as much as i  wished 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm....i would invite you both to go north once more for old times sake...but that might pressing our luck..... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] KOren! 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] there are enough corpses in coffinswode  
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Dinna go! 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] I feels like complainin some more 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I know tha look! 
+[magick65109] Orphen: [Talk] *nods* 
+[bredbergen] Cane Wallace: [Talk] *stands silently staring ahead* 
+Khelkarak Stoneshoulder: [Talk] [Dw] What be new, lad? 
+[Dark_MBM] Prun Wist: [Talk] .[looks last time to the gate before he turns away] 
+[MColes] Cale: [Talk] *E* Aye.. i feel like I've used up most of my good luck for today... 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* [dw] new? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] are there still those among you that know how coffinswode looked like before the red one came ? 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Press it alot actually.....*chuckles darkly to himself* 
+[swEEpEr14] Carven Deepforge: [Talk] aye? 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] Anelas? Kebril needs healing, do you know anyone here who might aid him? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] hm .. 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *tackles Koren* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] what did he do .. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Umph 
+[Thestral0722] Koren Tallus: [Talk] *trys to keep walking* 
+[swEEpEr14] Carven Deepforge: [Talk] wha? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *padds lips* ill look around for a healer *e* 
+[Thestral0722] Koren Tallus: [Talk] *stumbles and trips on boot straps* 
+[bredbergen] Cane Wallace: [Talk] *looks over to Anelas and shakes head*  
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Mate.. ye attack him.. he'll attack us back and worse 
+[Anselmo] Malcor Blackarrow: [Talk] he may wait till daylight 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] Tried lifting up sawhorses and chairs and climbing down the stone. 
+Khelkarak Stoneshoulder: [Talk] *narrows his eyes* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *taps his chin slowly* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Now calm yerself. aye? 
+[bredbergen] Cane Wallace: [Talk] aye perhaps 
+[Thestral0722] Koren Tallus: [Talk] *grimaces eyes blood red and breathing heavily* 
+[swEEpEr14] Carven Deepforge: [Talk] *peers at Koren* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* elder do you know of one that could help us tend to Kebrils wounds? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Red Wizzard needs ta be appeased. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Humans and dwarves having a row...the circle of madness is quite complete i would say.... 
+[Thestral0722] Koren Tallus: [Talk] Ch.... HOLT.... He kinna be tha' strong... 
+Khelkarak Stoneshoulder: [Talk] Ye be 'avin' a problem, lad? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] He is stronger! 
+[swEEpEr14] Carven Deepforge: [Talk] *smirks* 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Ah....i allready told Thalandir to looko for one called Aesir.... 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *nods 
+[Thestral0722] Koren Tallus: [Whisper]  *looks down* Evr'y one else is gone..... 
+[Thestral0722] Koren Tallus: [Whisper]  Wha' good am I 'ere... 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Unshoulders his bow and knocks an arrow:: 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] let me tell you human .. ive been touched by the red ones magic twice and barely survived each time ... dont press your luck and shorten the time the gods gave you here  
+[Thestral0722] Koren Tallus: [Whisper]  *red drains from eyes* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye listend ta Anelas 
+[Thestral0722] Koren Tallus: [Talk] Watch yer tongue man... You have no KNow of me... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Koren! 'Nuff 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Come on mate 
+[Thestral0722] Koren Tallus: [Talk] .... *looks angry yet heartbroken* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Jus settle down.  I gotta help out here 
+[magick65109] Orphen: [Talk] *laughs softly* 
+Khelkarak Stoneshoulder: [Talk] [Dw] By the nine hells.. Can ye make sense of this? He be looking to take one of us on or something equally mad? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] the choices are each owns to make  
+[swEEpEr14] Carven Deepforge: [Talk] *nods slowly* 
+[bredbergen] Cane Wallace: [Talk] *grins slightly at Malcor* 
+[MColes] Cale: [Talk] *scratches his chin absently* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] that's how they are Khelkarak 
+[swEEpEr14] Carven Deepforge: [Talk] *nods slowly* 
+[Thestral0722] Koren Tallus: [Talk] Aye.. mayhaps.. jus' evr'y one else 'Olt.. 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *E* Hmm....so it would seem you both have companionship of nature? TO be left behind i am then.... 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] the wolf said he would return at daylight 
+Khelkarak Stoneshoulder: [Talk] *grunts, keeping his eyes narrowed* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *looks at Holt for a moment  
+[bredbergen] Cane Wallace: [Talk] I see... 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *rubs his temples and sighs* 
+[MColes] Cale: [Talk] *chuckles lsightly* companionship.. no.. I think the wolf here just follows me for a sure meal. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] is there a healer among your kin ?  
+[Thestral0722] Koren Tallus: [Talk] Sorry friend... it got the best a me... 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] it appears one of my kin needed to proof his clumsiness in climbing that cliff  
+[Dantes_Quietus] Choal Da'Silvan: [Whisper]  I gotta town ta rebuild here.. I need yer calmness Koren 
+[Anselmo] Malcor Blackarrow: [Talk] i will see to some work for a bit 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *grins slightly to Cale and nods slowly* *E* Understood then... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Hell... I dinna have any blessins left mate.. 
+[Anselmo] Malcor Blackarrow: [Talk] no, brance still 
+[Thestral0722] Koren Tallus: [Talk] Lemme help... 
+[Anselmo] Malcor Blackarrow: [Talk] i have some molds 
+[bredbergen] Cane Wallace: [Talk] damn.. oh well 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *nods to Koren* 
+[Thestral0722] Koren Tallus: [Talk] Holt... Lemme help build.. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *shrugs 
+[bredbergen] Cane Wallace: [Talk] small? 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] I gunna check on me lass 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *frowns deeply* (calls down) [e] No need, kin Anelas. My foolishness does not run so deep as that. 
+[Anselmo] Malcor Blackarrow: [Talk] and a medium 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *his mouth twists wryly* 
+[Thestral0722] Koren Tallus: [Talk] *grins* I'd like ta meet 'er I would.. 
+[Anselmo] Malcor Blackarrow: [Talk] come 
+[bredbergen] Cane Wallace: [Talk] how much? just the small then.. 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Jus stay out o' trouble while I am gone 
+[Anselmo] Malcor Blackarrow: [Talk] 3 coins 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Arigh mate *chuckles slightly* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *chuckles* *e* good to see you didnt manage to break your neck  
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *smirks* [e] It was but a twisted leg, no more. 
+[Thestral0722] Koren Tallus: [Talk] *looks sadly at holt* 
+Khelkarak Stoneshoulder: [Talk] *frowns, shrugging* 
+[swEEpEr14] Carven Deepforge: [Talk] *shakes head* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] sad creatures 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *sighs 
+[swEEpEr14] Carven Deepforge: [Talk] *nods to elf* 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] I wonder Anelas.. what should we do with the wolf once he returns? 
+[swEEpEr14] Carven Deepforge: [Talk] were good o' ya ta try an talk sense 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] i wonder why its always raining here  
+[swEEpEr14] Carven Deepforge: [Talk] *looks up* 
+[swEEpEr14] Carven Deepforge: [Talk] *sniffs* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *turns back* *e* the most reasoanble thing .... nothing  
+[Nightfall-] Thalandir  Illithien: [Talk] [e] He begged for our aid, this is why I am asking. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *e* so what exactly did he do here ? 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] The halfling said such. 
+[swEEpEr14] Carven Deepforge: [Talk] dun mind so much...*bangs axe on Khelkarak's sheild*  lest it dun be snowin aye? 
+Khelkarak Stoneshoulder: [Talk] *goes back to keeping watch* [Dw] Aye, that be true. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *looks to the dwarves* i hope you dont mind ... but i cant help but wonder if you knew what the human known as the wolf was doing here ... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *sighs* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] home with tha sun aye? 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *scans the area* 
+[magick65109] Orphen: [Talk] *looks around* 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs*  it be good some'n be noticin...  
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] maybe you could enlighten me about that part a bit ? 
+[MColes] Cale: [Talk] *Rubs the side of his head as his ears twicth* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *leans against the statue, relaxing his grip on his box* 
+[swEEpEr14] Carven Deepforge: [Talk] looks like he were gettin his brains scrambled by tha wizard 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[swEEpEr14] Carven Deepforge: [Talk] sorry I dun me no more help'n that 
+[swEEpEr14] Carven Deepforge: [Talk] *rubs stump absently* 
+Khelkarak Stoneshoulder: [Talk] *nods* Aye, that be true... 
+[Lost Soul] Jervis: [Talk] *smells of ale* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] *looks at Jervis and sighs* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] .. so the red one bewitched him ? 
+[Lost Soul] Jervis: [Talk] the gate is secured as can be? 
+[magick65109] Orphen: [Talk] *nods* 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye until Samin kin do tha finishin touches on it 
+[Lost Soul] Jervis: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] *nods firmly* Aye... 'Ad 'im down on 'is 'ands and knees callin' 'im "Master" an whatnot 
+[Lost Soul] Jervis: [Talk] I need rest then 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] *nods slowly* *E* Yes yes...lead on now... 
+[Dantes_Quietus] Choal Da'Silvan: [Talk] Aye.. get some... 
+[Thestral0722] Koren Tallus: [Talk] *frowns* 
+[MColes] Cale: [Talk] *whistles lsightly* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *tosses his head, peering through the rain* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] ah ... so he was not involved in the defense ? 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[Thestral0722] Koren Tallus: [Talk] I'll meet yer lass in a bit holt 
+[swEEpEr14] Carven Deepforge: [Talk] got 'ere jes in time ta see his brains messed 
+[MColes] Cale: [Talk] If you'll... 
+[Shinamori_Aoshi] Lillith Nighsong: [Talk] ...move aside yes.. 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* 
+[swEEpEr14] Carven Deepforge: [Talk] didun seem ta be though.. eh Khelkarak? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] he seemed on of those that walk the path of the survivor whatever the cost .. 
+[swEEpEr14] Carven Deepforge: [Talk] he o' a differnt man-hold? 
+Khelkarak Stoneshoulder: [Talk] *shrugs* 'E were standing on the side o' the 'umans when we were arriving at least.. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] so the humans acknowledge him as the ruler of the isle ? 
+Khelkarak Stoneshoulder: [Talk] *grumbles and takes some cold stew from his pack and begins eating* 
+[swEEpEr14] Carven Deepforge: [Talk] *scratches head*  tha wolf did 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+Khelkarak Stoneshoulder: [Talk] *shrugs* Nay idea... Ye might wish te be askin' the 'umans that. 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] well the red one is so arrogant flattery certainly does seem to have an effect 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *sighs 
+[swEEpEr14] Carven Deepforge: [Talk] hopin ta nay be havin ta speak with 'im m'self 
+[swEEpEr14] Carven Deepforge: [Talk] *grins* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] been blasted with his weavefire twice .. 
+Khelkarak Stoneshoulder: [Talk] *grunts, nodding* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] men be odd 
+[swEEpEr14] Carven Deepforge: [Talk] aye? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] dont really want to try my luck another time  
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+Khelkarak Stoneshoulder: [Talk] What be weavefire? 
+[swEEpEr14] Carven Deepforge: [Talk] wiggler magic mefriend 
+[swEEpEr14] Carven Deepforge: [Talk] *me friend 
+Khelkarak Stoneshoulder: [Talk] ... Why not be callin' it wiggler magic then? 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] next timeill watch the life pass out of him  
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] wiggler ? 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs*  dunno ask tha elf 
+Khelkarak Stoneshoulder: [Talk] Wiggler wha? 
+[swEEpEr14] Carven Deepforge: [Talk] *looks at elf* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] well the fir he throws with his spells is hotter then any forge and although i dodged most of it it burned my armor, hair and alot of skin off me  
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] not exactly an expierence one wishs to repeat 
+[swEEpEr14] Carven Deepforge: [Talk] *nods*  see wiggler magics 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* Aye, ye were right. 
+[swEEpEr14] Carven Deepforge: [Talk] *punches Khelkarak's shoulder* 
+[swEEpEr14] Carven Deepforge: [Talk] ' course 
+Khelkarak Stoneshoulder: [Talk] *grunts, glancing at Carven for a moment* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *nods politely 
+[swEEpEr14] Carven Deepforge: [Talk] *shakes head* 
+[magick65109] Orphen: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] *inclines his head* 
+[MColes] Cale: [Talk] *sighs slightly att he blocade* 
+[magick65109] Orphen: [Talk] what happened here? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] here's me idea, ask tha Khazad fer help then ignore an mock em... 
+[swEEpEr14] Carven Deepforge: [Talk] *sighs* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] red one showed and thought it necessary to show how well his thralls do his bidding it would seem  
+Khelkarak Stoneshoulder: [Talk] *shrugs, and goes back to guarding* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] lest the elfs an orcies speaks ta us.  *smiles widely* 
+Khelkarak Stoneshoulder: [Talk] *chuckles* [Dw] Aye, don't that be a treat. 
+[swEEpEr14] Carven Deepforge: [Talk] *laughs heartily* 
+[MColes] Cale: [Talk] There a way a guy can get out of here. 
+[swEEpEr14] Carven Deepforge: [Talk] *watches out over "gate"* 
+Khelkarak Stoneshoulder: [Talk] Huh? *looks over to Cale* 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] *looks at the sky 
+Khelkarak Stoneshoulder: [Talk] 'op o'er the chair there, if'n ye like. 
+[MColes] Cale: [Talk] *nods slightly* 
+[swEEpEr14] Carven Deepforge: [Talk] aye that be tha way 
+[Feanor Thequildor] Anelas Te'lisurr: [Talk] i guess the rain shall not end this night ... if you excuse me for a moment ill be seeking the warmth of a fire for a few hours 
+[MColes] Cale: [Talk] *raises his foot to the chair and tries to step over* 
+[swEEpEr14] Carven Deepforge: [Talk] *slaps hand on stump "clapping"* 
+[MColes] Cale: [Talk] *whistles and the wolf pauses before leeping over the blockade* 
+Khelkarak Stoneshoulder: [Talk] *grumbles* [Dw] Aye.. The elves be getting the comfort of a fire and the dwarves be getting guard duty in the rain. 
+[swEEpEr14] Carven Deepforge: [Talk] *smirks* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] lest they be bringin us lots o' ale... 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] (quietly) [e] What news? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ale? I ain't seen no ale... *grumbles* 
+[swEEpEr14] Carven Deepforge: [Talk] *laughs again* 
+Dropped Items: [Talk] Dropped Bag of Aley Allendt 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] Nothing, yet I doubt this is over, he will try to surprise us throught the night. 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods grimly* [e] Aye, the gnolls at the fort did the same thing. 
+[Nightfall-] Thalandir  Illithien: [Talk] ::His cloak and armor soaked in water, he stands almost motionless, an arrow knocked in his bow:: 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Raises his brow:: [e] What fort if I may ask? 
+[MithralMist] Will Nefzen: [Talk] Hello ! 
+[MithralMist] Will Nefzen: [Talk] Whered the rest go ! 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] fine, tired o this rain now, thinkin I prefers tha snow 
+[MColes] Cale: [Talk] *E* ye mind lass? 
+[MithralMist] Will Nefzen: [Talk] Where is everyone 
+[magick65109] Orphen: [Talk] take what you want 
+Khelkarak Stoneshoulder: [Talk] *raises a brow* Wha? 
+Dropped Items: [Talk] Dropped Bag of Baden Swan 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances to the side at him quizzically* [e] the old fortress of the People, formerly libberated of the orcs. I was stationed there for about a month of guard duty as an Ethir. 
+Dropped Items: [Talk] Dropped Bag of Baden Swan 
+Khelkarak Stoneshoulder: [Talk] *shrugs* 
+[MithralMist] Will Nefzen: [Talk] this will come in handy 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] does tha men be wearin them hoods all tha day, cause they so ugly?   
+[swEEpEr14] Carven Deepforge: [Talk] *shakes rainwater from beard* 
+[MithralMist] Will Nefzen: [Talk] I'm wearing it cause I have common sense 
+[MithralMist] Will Nefzen: [Talk] And its raining 
+Dropped Items: [Talk] Dropped Bag of Aley Allendt 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] finally a man that speaks Khazad! 
+Khelkarak Stoneshoulder: [Talk] [Dwarven] More likely to be hiding their faces in shame cause they be having pitiful excuses for beards... 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Nods slowly in understanding:: [e] A, I see, I am afraid I was not present in these days, only preparing to sail back to Evermeet. ::Sighs:: 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles heartily* 
+[MithralMist] Will Nefzen: [Talk] ooc- could you ignore that im very sorry I didnt realize 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] shameful really 
+[MithralMist] Will Nefzen: [Talk] heh 
+[MithralMist] Will Nefzen: [Talk] Hey I helped alot in this war 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods slightly* [e] Ah, I see. Regretfully, I am no stranger to battle such as this. 
+[MithralMist] Will Nefzen: [Talk] well sort of 
+[swEEpEr14] Carven Deepforge: [Talk] aye? 
+Khelkarak Stoneshoulder: [Talk] Tween the chair and the sacks if'n ye be lookin' te leave. 
+[MithralMist] Will Nefzen: [Talk] You wouldnt have those sacks if it werent for me 
+[MithralMist] Will Nefzen: [Talk] or those  
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+[MithralMist] Will Nefzen: [Talk] or any of this junk 
+[MithralMist] Will Nefzen: [Talk] I stored it over there incase something was going to happen 
+[swEEpEr14] Carven Deepforge: [Talk] the humans offer ya  their thanks sir! 
+Khelkarak Stoneshoulder: [Talk] *pulls some more cold stew out of his pack and wolfs it down* 
+Dropped Items: [Talk] Dropped Bag of Isabel Mensorrian 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] though they dun offer us none 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances around* [e] At least this is better-fortified. I was previously tasked with holding a watchtower on my own with the others upon the cliff face. This is slightly more favorable. 
+Khelkarak Stoneshoulder: [Talk] *chuckles* 
+[MithralMist] Will Nefzen: [Talk] I never had any dwarven friend 
+[swEEpEr14] Carven Deepforge: [Talk] *nods to Will and smiles* 
+[MithralMist] Will Nefzen: [Talk] I've always liked your kind though 
+[swEEpEr14] Carven Deepforge: [Talk] we lives under stones an eat rocks an gets ignored 
+Khelkarak Stoneshoulder: [Talk] *raises a brow* [Dw] Did he just be calling us his friends? 
+Khelkarak Stoneshoulder: [Talk] *chuckles at Carven's words* 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] I wonder how long will it take to rebuild this gate... it is sorely needed in these times. 
+[swEEpEr14] Carven Deepforge: [Talk] *smiles* [dw] he speaks ta us, prolly tha closest we be findin 'ere 
+[swEEpEr14] Carven Deepforge: [Talk] aye then, we jes be guardin this new... erm  ... gate? 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] And I even more wonder what is on the going in our borderpost... ::Frowns:: 
+[MithralMist] Will Nefzen: [Talk] Aye 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods slowly* [e] Aye. A gate is always integral to a good defense. Thankfully we have barricades, but a proper gate is desperately in need. 
+Khelkarak Stoneshoulder: [Talk] [Dw] True enough... But still, nay known him more than 2 minutes... 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances to the side, attempting to peer beneath the hood* [e] Borderpost? 
+[MithralMist] Will Nefzen: [Talk] Axes are great ! 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] bringin us back ta that humans are odd 
+Khelkarak Stoneshoulder: [Talk] *chuckles* Aye, they are. 
+[swEEpEr14] Carven Deepforge: [Talk] likes em? 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] The old orc fort... the remnants rather... I wonder if the red scum arrived to our lands. 
+[MithralMist] Will Nefzen: [Talk] *frowns* I lost mine washin up 
+[swEEpEr14] Carven Deepforge: [Talk] we gots a good apprentice weaponsmith up under our stone, ya knows where we lives and drinks ale and hoards our gold 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *his slit-pupiled eyes narrow* You believe he would sneak behind us while we remain here? 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] [e] 
+Khelkarak Stoneshoulder: [Talk] *chuckles* 
+[MithralMist] Will Nefzen: [Talk] ah ! 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] /e/ certainly , he is a twisted and evil thing 
+[MithralMist] Will Nefzen: [Talk] True men dont wear hoods ! 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Lets out a bitter chuckle:: [e] Listen to your own words my friend.. quite fitting, hmm? 
+[swEEpEr14] Carven Deepforge: [Talk] prefer seein yer face fer true 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *his mouth twists wryly* How so? 
+Khelkarak Stoneshoulder: [Talk] [Dw] Told ye it were the lack of beard... 
+[swEEpEr14] Carven Deepforge: [Talk] *is missing his left hand from the elbow down* 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Sighs and rummages through his side-satchel producing an apple, he devours it quickly:: 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* [dw] yer right o' course 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *tosses his bangs to the side with a shake of his head* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] shame 
+[MithralMist] Will Nefzen: [Talk] I dont like this rain 
+[swEEpEr14] Carven Deepforge: [Talk] heh, I dun care much fer it neither 
+[Nightfall-] Thalandir  Illithien: [Talk] [e] We should make a run back to our lands as soon as possible and inform them of what happened. 
+[MithralMist] Will Nefzen: [Talk] hey ! 
+[Unlikely Hero] Tesalyn Liiristra: [Talk] /e/ yes 
+[MithralMist] Will Nefzen: [Talk] It eased up ! 
+[MithralMist] Will Nefzen: [Talk] Thank tempus ! 
+[swEEpEr14] Carven Deepforge: [Talk] an I be thinkin *looks up* huh, yer right! 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods* [e] I concur, and would like to volunteer for that. I can cover ground more quickly. 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] gots any gold? 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Why whould I be having gold on me? It be bloody useless 
+[MithralMist] Will Nefzen: [Talk] Do you fine dwarves make battleaxes ? 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Nods slightly:: [e] If this night pases calmly we should leave for a day at least and see to our own defences. 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] wants me ta see if'n I c'n buy ya a ale? 
+[swEEpEr14] Carven Deepforge: [Talk] aye, finest! 
+[MithralMist] Will Nefzen: [Talk] I'm in search of an Iron one 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *nods* [e] Of course. 
+[swEEpEr14] Carven Deepforge: [Talk] good luck ta ya 
+Khelkarak Stoneshoulder: [Talk] Good luck in yer search then. 
+[swEEpEr14] Carven Deepforge: [Talk] *smirks* 
+[MithralMist] Will Nefzen: [Talk] Well... 
+Khelkarak Stoneshoulder: [Talk] [Dw] Aye, of course. 
+[MithralMist] Will Nefzen: [Talk] I'm willing to pay you for one 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *glances up at the sky with relief* 
+[swEEpEr14] Carven Deepforge: [Talk] you'll have ta be speakin ta our Thane 'bout that... then he'll be tellin ya "no" 
+Khelkarak Stoneshoulder: [Talk] *nods slowly* 
+[MithralMist] Will Nefzen: [Talk] Ah I see 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *sighs quietly to himself* 
+[MithralMist] Will Nefzen: [Talk] eh 
+[MithralMist] Will Nefzen: [Talk] If worst comes to worst 
+[MithralMist] Will Nefzen: [Talk] Lets go in the cave 
+[MithralMist] Will Nefzen: [Talk] I like caves aye 
+[swEEpEr14] Carven Deepforge: [Talk] ya could kill Khelvin there an take his axe? 
+[swEEpEr14] Carven Deepforge: [Talk] we lives in caves, cause they be made o' rock 
+[MithralMist] Will Nefzen: [Talk] Ah I dont know 
+[MithralMist] Will Nefzen: [Talk] Aye 
+Khelkarak Stoneshoulder: [Talk] *raises a brow* 
+[MithralMist] Will Nefzen: [Talk] I'd live in one 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+Khelkarak Stoneshoulder: [Talk] *chuckles* [Dw] Ye be the reason dwarves be so well understood among surfacers. 
+[MithralMist] Will Nefzen: [Talk] Or you could kill em and give me the axe 
+[swEEpEr14] Carven Deepforge: [Talk] aye, but where's tha sport in that? 
+[MithralMist] Will Nefzen: [Talk] Nah 
+[MithralMist] Will Nefzen: [Talk] I'd rather do it myself 
+[swEEpEr14] Carven Deepforge: [Talk] prefer ta fight somethin that c'n fight back, like a baby gobbie 
+[swEEpEr14] Carven Deepforge: [Talk] *laughs heartily* 
+[MithralMist] Will Nefzen: [Talk] But....luckily for him....I like dwarves 
+Khelkarak Stoneshoulder: [Talk] *grunts* Lucky fer ye, ye mean. 
+[swEEpEr14] Carven Deepforge: [Talk] well human, Khelvin an I be off tha find some gold ta hoard 
+[swEEpEr14] Carven Deepforge: [Talk] *nods to Khelkarak* 
+[MithralMist] Will Nefzen: [Talk] I like gold 
+Khelkarak Stoneshoulder: [Talk] [Dw] What did ye just call me? 
+[MithralMist] Will Nefzen: [Talk] Can I come 
+[MithralMist] Will Nefzen: [Talk] mwhwheheheheheheh 
+[swEEpEr14] Carven Deepforge: [Talk] no 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Bring me an ale.. I'll keep the watch up 
+[MithralMist] Will Nefzen: [Talk] Do you happen to know where this battle is ? 
+[swEEpEr14] Carven Deepforge: [Talk] it were 'ere 
+[MithralMist] Will Nefzen: [Talk] Where now ? 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[MithralMist] Will Nefzen: [Talk] north ? 
+Dropped Items: [Talk] Dropped Bag of Odin Windrivver 
+[MithralMist] Will Nefzen: [Talk] bah 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Starts empting his quiver of arrows and notching it's arrowss in the ground with a sigh:: 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *sighs to himself* 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *stares into the distance, his slit-pupiled eyes vacant* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] canna find no blasted ale 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] Human hospitality be leaving much room for imporvement... 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] talked ta them creepy folk in tha tent 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] didun like it there none! 
+Khelkarak Stoneshoulder: [Talk] [Dw] Even worse than the gnomes... Which be hard since they were shooting arrows 
+[swEEpEr14] Carven Deepforge: [Talk] *laughs* aye  
+[swEEpEr14] Carven Deepforge: [Talk] [dw] yer pal leave? 
+Khelkarak Stoneshoulder: [Talk] *chuckles* [Dw] Aye. 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] I c'n sense yer deep sadness 
+Khelkarak Stoneshoulder: [Talk] *grunts* 
+[swEEpEr14] Carven Deepforge: [Talk] *calls up hill*  Elf! 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Looks down:: Yes, master dwarf? 
+[swEEpEr14] Carven Deepforge: [Talk] ya knows where the humans be keepin they piss water ale? 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Smirks:: I doubt they have such. 
+[bredbergen] Cane Wallace: [Talk] *looksa tall the rubbish* 
+[swEEpEr14] Carven Deepforge: [Talk] Hmph 
+[bredbergen] Cane Wallace: [Talk] *at 
+[swEEpEr14] Carven Deepforge: [Talk] Thanks sir elf 
+[swEEpEr14] Carven Deepforge: [Talk] *nods and waves* 
+Khelkarak Stoneshoulder: [Talk] Tween the chair and sacks be the easist path if'n ye be lookin' te leave. 
+[Nightfall-] Thalandir  Illithien: [Talk] How is it there in the north? 
+[bredbergen] Cane Wallace: [Talk] *tries to squeeze through* 
+[swEEpEr14] Carven Deepforge: [Talk] *laughs loudly at Khelkaraks words* 
+[swEEpEr14] Carven Deepforge: [Talk] Cold mostly 
+[bredbergen] Cane Wallace: [Talk] whew! 
+[bredbergen] Cane Wallace: [Talk] heh? 
+[MithralMist] Will Nefzen: [Talk] ooc- disregard that 
+[bredbergen] Cane Wallace: [Talk] nothing 
+[MithralMist] Will Nefzen: [Talk] Hello 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Starts picking up the arrows which he notched in the ground:: 
+[bredbergen] Cane Wallace: [Talk] hello.. 
+[swEEpEr14] Carven Deepforge: [Talk] been preparin fer war o' course 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[bredbergen] Cane Wallace: [Talk] don't think I've met you before 
+[MithralMist] Will Nefzen: [Talk] Where you off to sir ? 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Nods slightly, frowns:: 
+[bredbergen] Cane Wallace: [Talk] up by the lighthouse... 
+[swEEpEr14] Carven Deepforge: [Talk] *rubs stump absently* 
+[bredbergen] Cane Wallace: [Talk] who's asking? 
+[MithralMist] Will Nefzen: [Talk] Me 
+[bredbergen] Cane Wallace: [Talk] *looks him up and down* 
+[bredbergen] Cane Wallace: [Talk] *smirks* 
+[swEEpEr14] Carven Deepforge: [Talk] *waves to elf again*  if'n ya needs anythin...  *nods* 
+Khelkarak Stoneshoulder: [Talk] *grunts* Ye two be blockin' me view... Can't very well keep watch with 'umans standin' in front o' me... 
+[bredbergen] Cane Wallace: [Talk] aha... the man with the junk.. 
+[Nightfall-] Thalandir  Illithien: [Talk] ::Nods:: Stay vigliant friends. 
+[bredbergen] Cane Wallace: [Talk] we'll move then.. 
+[MithralMist] Will Nefzen: [Talk] I have no more junk 
+[swEEpEr14] Carven Deepforge: [Talk] aye 
+Khelkarak Stoneshoulder: [Talk] *nods* Me thanks. 
+Khelkarak Stoneshoulder: [Talk] [Dw] Ye should try being serious sometimes, ye know. 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] jes figures with yerself an tha Thane an all bein serious all tha time, ya c'n do it fer me a bit 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] I be thinking yer logic be a tad flawed 
+[MithralMist] Will Nefzen: [Talk] Have we met ? 
+[MithralMist] Will Nefzen: [Talk] Did I sell a blade to you ? 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I doubt that. 
+[MithralMist] Will Nefzen: [Talk] hmm 
+[MithralMist] Will Nefzen: [Talk] a short sword 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] lookin like tha orc be makin a friend now 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Was that you? 
+[MithralMist] Will Nefzen: [Talk] I believe so 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Yuo scared the old fool with your... antics then. 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] what odd sorta knife tha red haired man be carryin? 
+[MithralMist] Will Nefzen: [Talk] Yes 
+[MithralMist] Will Nefzen: [Talk] I musteve 
+Khelkarak Stoneshoulder: [Talk] [Dw] Why not ask him? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] cause I gotta be talkin ta him ta do that 
+Khelkarak Stoneshoulder: [Talk] [Dw] Aye, that be true. 
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Are we expecting any more trouble? Or are folk just not getting to sleep this night? 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+[swEEpEr14] Carven Deepforge: [Talk] *looks back* 
+Dropped Items: [Talk] Dropped Bag of Redoric Thallas 
+[MithralMist] Will Nefzen: [Talk] water 
+[swEEpEr14] Carven Deepforge: [Talk] figurin if'n tha humans dun wanna be guardin they hold, some outta 
+[MithralMist] Will Nefzen: [Talk] Ah no water 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Yes. Water. A whole sea of water. 
+[MithralMist] Will Nefzen: [Talk] heh water you cant drink 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I understand that's common, on an isle. 
+[swEEpEr14] Carven Deepforge: [Talk] otherwise they be comin an botherin us again ta come save em 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I wouldn't drink any water here, if I were you. Too many are getting sick. 
+[MithralMist] Will Nefzen: [Talk] Aye 
+[swEEpEr14] Carven Deepforge: [Talk] *smirks at Zubarda's words* 
+Khelkarak Stoneshoulder: [Talk] *grumbles* [Dw] I were agreeing to come and aid in battle to maintain the Thane's honor... But guarding this place al night... It be me duty to guard the Thane and our own HOld.. 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Well, I just got "thanked" for my help in the defence. 
+[swEEpEr14] Carven Deepforge: [Talk] *looks to sky* 
+[swEEpEr14] Carven Deepforge: [Talk] ya was? 
+Khelkarak Stoneshoulder: [Talk] Ye be one up on us'n then. 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Apparently, those who do not pray to Mystra, may not pray at all. 
+[swEEpEr14] Carven Deepforge: [Talk] hmmm  
+[swEEpEr14] Carven Deepforge: [Talk] E'er prayed ta Mystra Khelvin? 
+Dropped Items: [Talk] Dropped Bag of Isabel Mensorrian 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] I say we should be finding Malcor and heading back north... Our duty be to Kal-ahn'dur first...*shoves Carven* And quite calling me that 
+[swEEpEr14] Carven Deepforge: [Talk] so they was *looks at sky* eh.... hey looks *seems excited*  it be rainin! 
+[swEEpEr14] Carven Deepforge: [Talk] the humans didun treat ya well then Zubarda? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] I be quite ready a be gettin hime 
+[swEEpEr14] Carven Deepforge: [Talk] *home 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I was actually exiled. Until they were attacked, that is. 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Right, then let's be finding that Malcor 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+[swEEpEr14] Carven Deepforge: [Talk] pathetic 
+[swEEpEr14] Carven Deepforge: [Talk] ya should'n a come  
+[swEEpEr14] Carven Deepforge: [Talk] *shrugs*   
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Oh, I'll be ousted again soon, I'm sure. Just curious about their reason this time. 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I just needed to be sure those of my blood weren't used as fodder. 
+[swEEpEr14] Carven Deepforge: [Talk] *nods*  be takin some care, heared rumors they kill they own... like ... hrmm 
+Khelkarak Stoneshoulder: [Talk] *grunts* [Dw] I'll go look for him... Stay here, aye? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] aye 
+[MithralMist] Will Nefzen: [Talk] in here 
+[Kebril Di'makiir] Kebril Dimakiir: [Talk] *tilts his head to the side, examining the man with slightly narrowed eyes* 
+[AesirV] Aesir Valien: [Talk] *his armor is burnted black and his face seems tender but uninjured* 
+[0kplayer] Talib: [Talk] yathinkhesstillalive? 
+Khelkarak Stoneshoulder: [Talk] *looks around carefully* 
+[AesirV] Aesir Valien: [Talk] *burnt* 
+Khelkarak Stoneshoulder: [Talk] S'cuse me lad. 
+[Durin Orkbaine] Brance: [Talk] aye? 
+Khelkarak Stoneshoulder: [Talk] Ye be knowin' where I can be findin' the one called Malcor? 
+[Durin Orkbaine] Brance: [Talk] i bet i can guess 
+[Durin Orkbaine] Brance: [Talk] *grins* 
+Khelkarak Stoneshoulder: [Talk] Aye? 
+[Durin Orkbaine] Brance: [Talk] follow me ? 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] if you will 
+[Nivaurum] Jasami Etain: [Talk] *nods to Brance* 
+[Durin Orkbaine] Brance: [Talk] *nods* 
+[Lost Soul] Jervis: [Talk] nay, not now 
+[Anselmo] Malcor Blackarrow: [Talk] need one more for a dye kit 
+[Lost Soul] Jervis: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] malcor 
+[Durin Orkbaine] Brance: [Talk] *points to the dwarf* 
+[Anselmo] Malcor Blackarrow: [Talk] yes 
+Khelkarak Stoneshoulder: [Talk] *nods to Brance* Me thanks, lad. 
+[Durin Orkbaine] Brance: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] ready to get home? 
+[Lost Soul] Jervis: [Talk] *walks off, looking at the ingot* 
+Khelkarak Stoneshoulder: [Talk] *inclines his head to Malcor* Aye, we be 'avin' a duty te our own 'old. 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] brance, could you accompany us 
+[Durin Orkbaine] Brance: [Talk] sure 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] ((invite)) 
+Khelkarak Stoneshoulder: [Talk] Ursullir may still be about 'ere... She went off earlier... I trust ye'll aid 'er in 'er return trip when she be ready? 
+[Anselmo] Malcor Blackarrow: [Talk] i swpre i would 
+[Anselmo] Malcor Blackarrow: [Talk] *swore* 
+Khelkarak Stoneshoulder: [Talk] *nods* Good te be 'earin' that be meanin' somethin' 
+[Anselmo] Malcor Blackarrow: [Talk] we will see you there 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] and her 
+[bredbergen] Cane Wallace: [Talk] aargh 
+[bredbergen] Cane Wallace: [Talk] *grabs the mangled bronze from the anvil* 
+Khelkarak Stoneshoulder: [Talk] We'll be by the gate... 
+[Anselmo] Malcor Blackarrow: [Talk] cane you well enough for a trek north? 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] *nods* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Which would make me a "Half Tusk".  
+[swEEpEr14] Carven Deepforge: [Talk] *quietly pulling beard*  one-tusk... 
+Khelkarak Stoneshoulder: [Talk] *nods* [Dw] Found him... He should ber here in a bit 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] find 'im? 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] good 
+[swEEpEr14] Carven Deepforge: [Talk] *nods to Zubarda* 
+[swEEpEr14] Carven Deepforge: [Talk] Thanks *smiles slightly* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] I'm sure no-one here said it, but thank you for your help here. 
+[swEEpEr14] Carven Deepforge: [Talk] Gods willin, we be leavin soon... *chuckles* 
+Khelkarak Stoneshoulder: [Talk] *nods slowly, smiling faintly beneath his beard* 
+[swEEpEr14] Carven Deepforge: [Talk] yer tha first if'n I dun me mistakin 
+Khelkarak Stoneshoulder: [Talk] Aye. 
+[swEEpEr14] Carven Deepforge: [Talk] *grins* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Soon, if They are mercyful Gods. 
+[swEEpEr14] Carven Deepforge: [Talk] *watches human run past* 
+[swEEpEr14] Carven Deepforge: [Talk] needs more flags me thinks 
+Khelkarak Stoneshoulder: [Talk] *nods* Ready? 
+[Anselmo] Malcor Blackarrow: [Talk] i am bringing brance, in case of ogres 
+[MithralMist] Will Nefzen: [Talk] mister malcor 
+[Durin Orkbaine] Brance: [Talk] shall we? 
+[Anselmo] Malcor Blackarrow: [Talk] yes? 
+[MithralMist] Will Nefzen: [Talk] Oh you fellas are leaving 
+[Anselmo] Malcor Blackarrow: [Talk] aye to the freezing north 
+[MithralMist] Will Nefzen: [Talk] I have a cloak 
+[MithralMist] Will Nefzen: [Talk] a winter cloak 
+[MithralMist] Will Nefzen: [Talk] I should be fine 
+[Anselmo] Malcor Blackarrow: [Talk] need more than that at night 
+[swEEpEr14] Carven Deepforge: [Talk] *winks to Zubarda*  Gods keep ya 
+[MithralMist] Will Nefzen: [Talk] ah.. 
+[Durin Orkbaine] Brance: [Talk] *looks at all the junk* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] And you Dwarves. 
+[MithralMist] Will Nefzen: [Talk] hmm 
+[Anselmo] Malcor Blackarrow: [Talk] and the dwarves are wary of strangers... we will return soon 
+[MithralMist] Will Nefzen: [Talk] erm 
+[MithralMist] Will Nefzen: [Talk] I've talked to them already 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] *inclines his head to Zubarda* 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] *nods* 
+[MithralMist] Will Nefzen: [Talk] So what is up north 
+[swEEpEr14] Carven Deepforge: [Talk] Gah! be needin longer legs 
+[Durin Orkbaine] Brance: [Talk] dont think i got you fellas names 
+[Vincent van 't Hof] Zubarda Thrugrim: [Talk] Orcs. 
+Khelkarak Stoneshoulder: [Talk] Nay we, yers, I don't be thinkin' 
+[Durin Orkbaine] Brance: [Talk] well i am brance  
+[Durin Orkbaine] Brance: [Talk] *nods* 
+[swEEpEr14] Carven Deepforge: [Talk] *missing left hand from elbow down* 
+[Anselmo] Malcor Blackarrow: [Talk] ((brb)) 
+Khelkarak Stoneshoulder: [Talk] *nods* I be Khelkarak o' Iron Hill 
+[Durin Orkbaine] Brance: [Talk] well nice to meet ya  
+[MithralMist] Will Nefzen: [Talk] I go by will 
+[swEEpEr14] Carven Deepforge: [Talk] *nods stiffly* Carven o' Iron hill 
+[Durin Orkbaine] Brance: [Talk] *nods* 
+[swEEpEr14] Carven Deepforge: [Talk] *grins at Will* 
+[Durin Orkbaine] Brance: [Talk] im sure the camp appreciates your help 
+[swEEpEr14] Carven Deepforge: [Talk] what kind o' knife that be Will? 
+[MithralMist] Will Nefzen: [Talk] I supplied the barricade for the gate 
+[swEEpEr14] Carven Deepforge: [Talk] oh aye!  ta be sure 
+Khelkarak Stoneshoulder: [Talk] *grunts* Aye? Nay would 'ave guessed it. 
+[MithralMist] Will Nefzen: [Talk] but didnt put it up 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] *shrugs* 
+[MithralMist] Will Nefzen: [Talk] Well lets be off 
+[MithralMist] Will Nefzen: [Talk] actually 
+[MithralMist] Will Nefzen: [Talk] you go on 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+Khelkarak Stoneshoulder: [Talk] *glances at Brance's axe for a moment* 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] might run on some agres 
+[Anselmo] Malcor Blackarrow: [Talk] ogres... stay wary 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[swEEpEr14] Carven Deepforge: [Talk] nice day fer rain 
+[Durin Orkbaine] Brance: [Talk] *looks around* 
+[Anselmo] Malcor Blackarrow: [Talk] *SUCCESS* on an average climb 
+[Durin Orkbaine] Brance: [Talk] *watches the cave* 
+Khelkarak Stoneshoulder: [Talk] *SUCCESS* on an average climb 
+[swEEpEr14] Carven Deepforge: [Talk] Gah!  climbin! 
+[Durin Orkbaine] Brance: [Talk] *chuckles* 
+[swEEpEr14] Carven Deepforge: [Talk] *rolls neck and reaches up with one arm* 
+[swEEpEr14] Carven Deepforge: [Talk] *SUCCESS* on an average climb 
+Khelkarak Stoneshoulder: [Talk] *stands near the edge and helps carven if he needs it* 
+[Durin Orkbaine] Brance: [Talk] *SUCCESS* on an average climb 
+[Anselmo] Malcor Blackarrow: [Talk] see you made it... better than the orc pass 
+[swEEpEr14] Carven Deepforge: [Talk] *climbes slowly and gets lots of help from Khelk* 
+[Anselmo] Malcor Blackarrow: [Talk] get near the trees 
+[Durin Orkbaine] Brance: [Talk] *sniffs* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Home sweet home... 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] aye 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+Ogre: [Talk] Pushdug glob 
+Ogre: [Talk] Skai! 
+Ogre: [Talk] Pushdug glob 
+[Durin Orkbaine] Brance: [Talk] on the hill mal 
+[Durin Orkbaine] Brance: [Talk] the hill 
+Ogre: [Talk] Pushdug glob 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] let me scout a bit  
+[Anselmo] Malcor Blackarrow: [Talk] thanks mate 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] and thank your god 
+[Anselmo] Malcor Blackarrow: [Talk] 9ogre 
+[Durin Orkbaine] Brance: [Talk] three to the east 
+[swEEpEr14] Carven Deepforge: [Talk] too many get past 
+[Durin Orkbaine] Brance: [Talk] *looks around* 
+Khelkarak Stoneshoulder: [Talk] *nods to Doli* 
+[Durin Orkbaine] Brance: [Talk] gonna be awful hard on us getting back 
+[Anselmo] Malcor Blackarrow: [Talk] thanks 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] how we gonna get back past them 
+[Anselmo] Malcor Blackarrow: [Talk] sneak 
+Khelkarak Stoneshoulder: [Talk] Past what? 
+[Durin Orkbaine] Brance: [Talk] the three ogres we walked by 
+[Anselmo] Malcor Blackarrow: [Talk] we can sneak by them 
+Khelkarak Stoneshoulder: [Talk] *shrugs* It be dark and snowin'... And they be non too bright. 
+[Anselmo] Malcor Blackarrow: [Talk] come 
+[swEEpEr14] Carven Deepforge: [Talk] *chuckles* 
+[swEEpEr14] Carven Deepforge: [Talk] [dw] Me Thanks Haela! 
+[swEEpEr14] Carven Deepforge: [Talk] *smiles widely* 
+Khelkarak Stoneshoulder: [Talk] *inclines his head* Our thanks. 
+[Anselmo] Malcor Blackarrow: [Talk] we made it 
+[Anselmo] Malcor Blackarrow: [Talk] let me rest and we will return 
+[Durin Orkbaine] Brance: [Talk] no problem 
+[swEEpEr14] Carven Deepforge: [Talk] ya sure ta be fine gettin ta yer man-hold? 
+[Anselmo] Malcor Blackarrow: [Talk] *nods* 
+[Durin Orkbaine] Brance: [Talk] *nods* 
+[Anselmo] Malcor Blackarrow: [Talk] we are very sneaky 
+[Durin Orkbaine] Brance: [Talk] you fellas trade ale ? 
+Khelkarak Stoneshoulder: [Talk] Open Bunus! 
+[Anselmo] Malcor Blackarrow: [Talk] *sits to rest* 
+[Anselmo] Malcor Blackarrow: [Talk] nevermind not tired 
+[Durin Orkbaine] Brance: [Talk] whats thids for? 
+[Durin Orkbaine] Brance: [Talk] my thanks 
+Khelkarak Stoneshoulder: [Talk] *inclines his head* [Dw] Safe travels to ye both. 
+[swEEpEr14] Carven Deepforge: [Talk] be safe! 
+[swEEpEr14] Carven Deepforge: [Talk] *muters [dw] ya seen 'is axe aye? 
+Khelkarak Stoneshoulder: [Talk] *nods grimly* [Dw] Aye.. Dwarf made 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* prolly tha Cap'n 
+[swEEpEr14] Carven Deepforge: [Talk] weren't one o' mine... 
+Khelkarak Stoneshoulder: [Talk] *nods* 
+Khelkarak Stoneshoulder: [Talk] [Dw] Be good to be back... 
+[swEEpEr14] Carven Deepforge: [Talk] needs ta be givin thanks 
+[swEEpEr14] Carven Deepforge: [Talk] [pray to my deity here] 
+Shrine of Ethics: [Talk] Before you is an unmarked shrine. 
+[swEEpEr14] Carven Deepforge: [Talk] [pray to my deity here] 
+Shrine of Morals: [Talk] Before you is an unmarked shrine. 
+Khelkarak Stoneshoulder: [Talk] [pray to my deity here] 
+[swEEpEr14] Carven Deepforge: [Talk] *puts Goblin head into offering bowl* 
+[swEEpEr14] Carven Deepforge: [Talk] yer foes die on me axe  
+[swEEpEr14] Carven Deepforge: [Talk] Me Lady Frey! 
+[swEEpEr14] Carven Deepforge: [Talk] *watches goblin face melt and burn* 
+[swEEpEr14] Carven Deepforge: [Talk] *nods* 
+[swEEpEr14] Carven Deepforge: [Talk] might best be gettin a bit o' rest  
+Khelkarak Stoneshoulder: [Talk] *chuckles* [Dw] Me own thoughts exactly 
+[swEEpEr14] Carven Deepforge: [Talk] damn good ta be home! 
+Khelkarak Stoneshoulder: [Talk] [Dw] Aye 
+[swEEpEr14] Carven Deepforge: [Talk] *shakes head* 
+Bed: [Talk] *YAWN* Getting sleepy.. What do I want to do now? 
+Khelkarak Stoneshoulder: [Talk] <cþ>Rest.</c> 
+[swEEpEr14] Carven Deepforge: [Talk] *falls face down on bed getting blood stains on the blankes and skins* 
+Khelkarak Stoneshoulder: [Talk] <cþ>Player Guild System
+Build 3.2b</c> (as of 2/26/04)
+<cþ>By: Samius Maximus</c>
+
+Choose an action: 
+Khelkarak Stoneshoulder: [Talk] List guild information... 
+Khelkarak Stoneshoulder: [Talk] Choose a list to view: 
+Khelkarak Stoneshoulder: [Talk] Members online. 
+Khelkarak Stoneshoulder: [Talk] Listed below are current active guild members, along with their guild rank. 
+Khelkarak Stoneshoulder: [Talk] [<cþ>Return.</c>] 
+Khelkarak Stoneshoulder: [Talk] Choose a list to view: 
+Khelkarak Stoneshoulder: [Talk] [<cþ>Return.</c>] 
+Khelkarak Stoneshoulder: [Talk] <cþ>Player Guild System
+Build 3.2b</c> (as of 2/26/04)
+<cþ>By: Samius Maximus</c>
+
+Choose an action: 
+Khelkarak Stoneshoulder: [Talk] [<cþ>Exit.</c>] 
